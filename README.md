@@ -8,6 +8,8 @@ Technical writing is an essential skill of conveying complex technical informati
 > [!TIP] 
 > A few resources are unaccessible in some countries, such as China. If an alternative is available in a specific country, it is listed as a sublist item of the unaccessible one followed by a mark of `Country Name` in a pair of parentheses.
 
+Welcome [contributing](/contributing.md)!
+
 ---
 
 ## Contents
