@@ -22,6 +22,9 @@ Welcome [contributing](/contributing.md)!
   - [DITA](#dita)
   - [S1000D](#s1000d)
 - [Text Automatic Processing](#text-automatic-processing)
+  - [Regex](#regex)
+  - [XSL](#xsl)
+  - [PowerShell](#powershell)
 
 ---
 
@@ -115,7 +118,7 @@ As Markdown got popular, more and more Markdown parsers appeared. However, Markd
 
 As a result, every time you choose a new Markdown tool, you had better read through its **user manual or documentation** to know exactly what Markdown syntax it supports.
 
-- [Github Docs: Writing on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Github Docs: Writing on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Basic Markdown syntax supported on Github.
 - [Github Flavored Markdown Specification](https://github.github.com/gfm/)
 - [Markdown DITA Syntax](https://www.dita-ot.org/dev/reference/markdown/markdown-dita-syntax) - Markdown styntax in DITA Open Toolkit, which is the most commonly used engine for DITA publishing.
 - [MDITA Syntax](https://www.dita-ot.org/dev/reference/markdown/mdita-syntax) - Markdown syntax for Lightweight DITA in DITA Open Toolkit, which is the most commonly used engine for DITA publishing.
@@ -131,8 +134,8 @@ reStructuredText is a lightweight markup language that is more well-defined comp
 If you are completely new to reStructuredText, the following **introductions and tutorials** are the best start points for you:
 
 - [Introduction to reStructuredText](https://www.writethedocs.org/guide/writing/reStructuredText/)
-- [A ReStructuredText Primer](https://docutils.sourceforge.io/docs/user/rst/quickstart.html)
-- [reStructuredText Primer](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
+- [A ReStructuredText Primer](https://docutils.sourceforge.io/docs/user/rst/quickstart.html) - An informal introduction to reStructuredText written by Richard Jones.
+- [reStructuredText Primer](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) - A brief introduction to reStructuredText in Sphinx documentation.
 
 Now, you have known a bit of reStructuredText. Just adopt a reStructuredText editor, then you can try it out!
 
@@ -145,7 +148,7 @@ You may forget an unfrequently used syntax or not sure about a specific syntax d
 
 - [Quick reStructuredText](https://docutils.sourceforge.io/docs/user/rst/quickref.html) - An online cheatsheet for reStructuredText syntax.
 - [reStructuredText Cheatsheet](https://github.com/ralsina/rst-cheatsheet#readme) - A downloadable two-page cheatsheet for reStructuredText syntax.
-- [reStructuredText Markup Specification](https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html)
+- [reStructuredText Markup Specification](https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html) - A detailed technical specification for reStructuredText written by David Goodger.
 
 ### DITA
 
@@ -163,19 +166,19 @@ Now, you have known a bit of DITA. It's time to practice!
 That said, DITA is a bit complicated. Adopt a [DITA-aware XML editor](https://www.ditawriter.com/list-of-dita-optimized-editors/) first, in case you are trapped in the tremendous DITA elements. Then, keep a **book of DITA best practices** at hand for reference at any time.
 
 - [DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA](https://www.amazon.com/DITA-Best-Practices-Roadmap-Architecting/dp/0132480522) - A practical book about how to write effective technical information in DITA, published in 2011 by IBM Press (not a free resource).
-- [The DITA Style Guide: Best Practices for Authors](https://www.oxygenxml.com/dita/styleguide/)
+- [The DITA Style Guide: Best Practices for Authors](https://www.oxygenxml.com/dita/styleguide/) - A style guide written in DITA 1.1 by Tony Self.
 
 You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of **open source sample manuals written in DITA** to see how it was written and think how to improve it.
 
 - [DITA Mini Manual](https://github.com/flicstar/DITA-Mini-Manual#readme) - A 1960s Mini owner's manual rewritten in DITA.
 - [Pilot Training Mitchell Bomber](https://github.com/DITAWriter/pilot_training_mitchell_bomber#readme) - A pilot training manual (aviation document) rewritten in DITA.
 - [LwDITA Code Samples](https://github.com/DITAWriter/LwDITA_Code_Samples#readme) - Various manuals of a 1970s computer rewritten in Lightweight DITA.
-- [DITA Glossary Example](https://github.com/DITAWriter/dita_glossary_example#readme) - A book named *On Yacht Sailing* was rewritten in DITA to demontrate how to implement glossories in DITA.
+- [DITA Glossary Example](https://github.com/DITAWriter/dita_glossary_example#readme) - A book named *On Yacht Sailing* rewritten in DITA to demontrate how to implement glossories in DITA.
 
 DITA has much more elements than [Markdown](#markdown) and [reStructuredText](#restructuredtext). If you encounter soemthing unknown, resort to **official specifications**.
 
-- [DITA Version 1.3](https://docs.oasis-open.org/dita/dita/v1.3/)
-- [Lightweight DITA: An Introduction Version 1.0](https://docs.oasis-open.org/dita/LwDITA/v1.0/LwDITA-v1.0.html)
+- [DITA Version 1.3](https://docs.oasis-open.org/dita/dita/v1.3/) - The latest official specifications for DITA, which was released on Jun 19, 2018.
+- [Lightweight DITA: An Introduction Version 1.0](https://docs.oasis-open.org/dita/LwDITA/v1.0/LwDITA-v1.0.html) - The Committee Note 02 for Lightweight DITA, which was approved on Oct 30, 2018.
 
 If you like to stay current with DITA developments, visit the **official repositories** in Github often.
 
@@ -191,7 +194,7 @@ S1000D is the most complicated standard for technical documentations. That means
 
 Here are **the official specifications and implementations in specific industries**.
 
-- [S1000D Specification](https://users.s1000d.org/Default.aspx)
+- [S1000D Specifications](https://users.s1000d.org/Default.aspx) - All versions of official specifications for S1000D. 
 - [ATA Spec 1000BR: Civil Aviation Business Rules for S1000D](https://publications.airlines.org/CommerceProductDetail.aspx?Product=308) - An implementation of S1000D specification in civil aviation industry, which can not be accessd for free.
 - [S1000D DIG Business Rules](https://www.gerkemulder.nl/DIG_Business_Rules_issue_1.0_170619.pdf) - An implementation of S1000D specification in defense industries.
 - [The Shipdex Protocol: Issue 2.3](http://www.shipdex.org/shipdex-viewer-free.asp) - An implementation of S1000D specification in shipping industry.
@@ -200,9 +203,54 @@ Here are **the official specifications and implementations in specific industrie
 
 Equipping yourself with some programming skills will enable you to complete some really cool jobs, such as automating workflow and batch modifying.
 
-- [Regular Expressions: The Complete Tutorial Online](https://www.regular-expressions.info/tutorial.html) and [PDF](https://gotellilab.github.io/Bio381/Scripts/Feb07/RegularExpressionsTutorial.pdf)
-- [XPath](https://www.w3schools.com/xml/xpath_intro.asp) and [XSLT](https://www.w3schools.com/xml/xsl_intro.asp) Tutorial
-- [XSL Specifications](https://www.w3.org/Style/XSL/)
-- [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.4)
+### Regex
 
+A regex (regular expression) is a pattern that the regex engine can use to find or match substrings. Regex is extremely useful in finding and replacing texts or strings in text files.
 
+If you are completely new to regex, the following **tutorial** is the best start point for you:
+
+- [Regular Expressions: The Complete Tutorial](https://gotellilab.github.io/Bio381/Scripts/Feb07/RegularExpressionsTutorial.pdf) - An easy-to-understand and practical book for regex beginners written by Jan Goyvaerts.
+
+Use an **online tool** to experiment the regexes in the tutorial or your own regexes. It will make your studying easy and interesting.
+
+- [Regex 101](https://regex101.com/) - An online tool to build, test and debug regex.
+- [RegExr](https://regexr.com/) - An online tool to learn, build and test regex.
+
+> [!TIP]
+> You can also use a text editor that supports searching files with regex to experiment your regexes, such as VS Code.
+
+Take **a cheatsheet or a quick reference** at hand to check the regex syntax at any time:
+
+- [Regular Expression Language: Quick Reference](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference) - A quick reference for regex from Microsoft.
+- [Regular expression syntax cheat sheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet) - A cheat sheet for regex in the JavaScript Guide from MDN Web Docs.
+
+### XSL
+
+XSL (Extensible Stylesheet Language) is a styling language for XML. It consists of three parts: XSLT, XPath, and XSL-FO.
+
+**XSLT** (XSL Transformations) is a language for tranforming XML documents. It is widely used in many purposes other than stylesheets, like transforming from one XML language to another, generating HTML pages from XML documents, etc.
+
+- [XSLT Tutorial](https://www.w3schools.com/xml/xsl_intro.asp) - A tutorial for XSLT beginners, which is developed by W3Schools..
+- [XSLT Version 2.0: Second Edition](https://www.w3.org/TR/xslt20/) - The latest official specification for XSLT, which was released on Mar 30, 2021.
+- [XSLT Version 3.0](https://www.w3.org/TR/xslt-30/) - The official specification for XSLT 3.0, which was released on Jun 8, 2017.
+
+**XPath** (XML Path Language) is an expression language for navigating through elements and attributes in an XML document.
+
+- [XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp) - A tutorial for XPath beginners, which was developed by W3Schools.
+- [XPath 3.1](https://www.w3.org/TR/xpath-31/) - The latest official specification for XPath, which was released on Mar 21, 2017.
+
+**XSL-FO** (XSL Formatting Objects) is a language for formatting XML documents. XSL-FO is also called XSL.
+
+- [XSL-FO Tutorial](https://w3schools.sinsixx.com/xslfo/default.asp.htm) - A tutorial for XSL-FO beginners, which was developed by W3Schools.
+- [XSL-FO Tutorial](https://www.renderx.com/tutorial.html) - A learn-by-example tutorial for XSL-FO beginners, which provides a series of examples working in [XEP](https://www.renderx.com/tools/xep.html).
+- [XSL Version 1.1](https://www.w3.org/TR/xsl/) - The lastest official specification for XSL-FO, which was released on Dec 05, 206.
+
+### PowerShell
+
+PowerShell is a task automation tool from Microsoft which is built into all versions of Windows.
+
+- [PowerShell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.4) - A book for PowerShell beginners, the contents on which has been open to public by Microsoft on its website with permission.
+- [Everything you want to know about ...](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.4) - A series of articles about PowerShell, which were collected from [PowerShell Explained](https://powershellexplained.com/) by Microsoft.
+- [PowerShell Documentation](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpowershell%2Fscripting%2Ftoc.json%3Fview%3Dpowershell-7.4) - The official documentation for PowerShell 7.4.
+
+If you like to explore more resources about PowerShell, see [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell).
