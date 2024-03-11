@@ -1,0 +1,27 @@
+# Jekyll theme setting
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+
+# Site settings
+locale                   : "en-US"
+title                    : "TCblabla"
+title_separator          : "|"
+name                     : "Yedda Wang"
+description              : # "An amazing website."
+url                      : "https://wongyah.github.io"
+baseurl                  : "/awesome-technical-writing-learning"
+repository               : "wongyah/awesome-technical-writing-learning"
+logo: "/assets/images/logo/docsimpo@2x.png"
+
+defaults:
+  # awesome list (readme)
+  - scope:
+      path: ""
+    values:
+      layout: single
+      classes: wide
+
+# Plugins
+plugins:
+  - jekyll-include-cache

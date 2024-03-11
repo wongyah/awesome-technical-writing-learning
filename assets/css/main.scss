@@ -1,0 +1,12 @@
+---
+---
+
+@charset "utf-8";
+
+/* system typefaces */
+$serif: "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Lucida Grande", Arial, sans-serif, Georgia, Times, serif !default;
+$sans-serif: "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
