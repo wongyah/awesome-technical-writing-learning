@@ -1,3 +1,4 @@
+<!-- omit from toc -->
 # Awesome Technical Writing Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Technical writing is an essential skill of conveying complex technical information in an easy-to-understand way.
@@ -12,6 +13,7 @@ Want to suggest a resource? Check out the [contribution guidelines](/contributin
 
 ---
 
+<!-- omit from toc -->
 ## Contents
 
 - [Technical Writing](#technical-writing)
@@ -52,13 +54,14 @@ Learning by doing, rather than learning by reading. It's time to write or imporv
 But wait..., you still need to adopt an **📙 editorial style guide for technical writing** at first. If you never know or forget what editorial sytle guides are or why you need one, go back to the [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
 
 - [ASD-STE100 Simplied Technical English](https://www.asd-ste100.org/request.html) - An international specification containing a set of writing rules and a controlled dictionary, which is widely used in aerospace and defense industry and other manufacturing industries.
-- [The IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) - The most classic style guide in the world, especially in the field of software.
-- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/) - A style guide for computer technology and software documentations, emphasizing a warm and relax conversational voice.
-- [Google Developer Documentation Style Guide](https://developers.google.cn/style) -  A style guide for software documentations, emphasizing a casual and natural conversational tone with specific format recommendations for HTML and Markdown.
-- [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html) - A style guide for open source software documentations written in Markdown, emphasizing topic-based writing and format guidelines for Markdown.
-- [Apple Style Guide](https://support.apple.com/zh-cn/guide/applestyleguide/welcome/web)
-- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.1/)
-- [SUSE Documentation Style Guide](https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/#)
+- [The IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) - A popular book first published by IBM Press in 2011, which emphasizeds a helpful, direct, and authoritative tone and topic-based writing (DITA).
+- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.1/) - A style guide for all kinds of technical documentations, including training and examination content. It emphasizes a formal writing sytle, with [IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) as the preferred reference.
+- [Red Hat Supplementary Style Guide for Product Documentation](https://redhat-documentation.github.io/supplementary-style-guide/) - A style guide supplementary to the [IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf), which provides format examples in AsciiDoc.
+- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/) - A style guide for computer technology and software documentations, which emphasizes a warm and relax conversational voice.
+- [Google Developer Documentation Style Guide](https://developers.google.cn/style) -  A style guide for software documentations, which emphasizes a casual and natural conversational tone with specific format recommendations for HTML and Markdown.
+- [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html) - A style guide for open source software documentations written in Markdown, which emphasizes topic-based writing and format guidelines for Markdown.
+- [SUSE Documentation Style Guide](https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/#)- A style guide for software documentations, which emphasizes a professional tone and comprehensive markup reference for DocBook.
+- [Apple Style Guide](https://support.apple.com/zh-cn/guide/applestyleguide/welcome/web) - A style guide for Apple materials, nothing special.
 
 In the real world, anything is possible. Take a suitable **📙 general propose editorial style guide** at hand, in case you step into an unknown situation someday.
 

@@ -7,10 +7,11 @@
 
 Anything that makes this project better is welcome. 
 
-- Correct or imporve descriptions.
-- Update an exsiting resource.
+- Add a new category.
 - Add a new resource.
+- Update an exsiting resource.
 - Remove an obsolete resource.
+- Correct or imporve descriptions.
 - Other improvements that haven't come to my mind.
 
 ## How to contribute
