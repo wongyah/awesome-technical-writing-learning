@@ -1,18 +1,116 @@
 # Jekyll theme setting
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+# Themes avaiable: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "contrast" 
 
 # Site settings
 locale                   : "en-US"
-title                    : "TCblabla"
+title                    : "docSimpo"
 title_separator          : "|"
+# subtitle                 : site tagline that appears below site title in masthead
 name                     : "Yedda Wang"
-description              : # "An amazing website."
+description              : "A curated list of awesome and free resources about technical writing."
 url                      : "https://wongyah.github.io"
 baseurl                  : "/awesome-technical-writing-learning"
 repository               : "wongyah/awesome-technical-writing-learning"
-logo: "/assets/images/logo/docsimpo@2x.png"
+# teaser                   : path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: "/assets/images/logo/docsimpo-logo@2x.png"
+# masthead_title           : overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+# words_per_minute         : 200
+atom_feed:
+  # path                   : blank (default) uses feed.xml
+  hide                   : true # false (default), true
+
+# search engine
+# search                   : false (default), true
+# search_full_content      : true, false (default)
+# search_provider          : lunr (default), algolia, google
+# lunr:
+  # search_within_pages    : false (default), true
+
+# SEO Related
+# google_site_verification :
+# bing_site_verification   :
+# naver_site_verification  :
+# yandex_site_verification :
+# baidu_site_verification  :
+
+# Social Sharing
+# twitter:
+#   username               :
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+og_image                 : /assets/images/docsimpo-logo-og@2x.png
+
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+  # type                   : Person or Organization (defaults to Person)
+  # name                   : If the user or organization name differs from the site's name
+  # links: An array of links to social media profiles
+
+# Analytics
+# analytics:
+  # provider               : false (default), "google", "google-universal", "google-gtag", "custom"
+  # google:
+  #   tracking_id          :
+    # anonymize_ip         : true, false (default)
+
+# Site Author
+author:
+  name             : "Yedda Wang"
+  avatar           : "https://avatars.githubusercontent.com/u/38174537?s=400&u=d532db4c31141ce67458174d2dc8b65782a80237&v=4"
+  bio              : "If you like this list, feel free to leave a star on my Github repository. :-))"
+  location         : "Beijing, China"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wongyah"
+    - label: "WeChat Subscription Account"
+      icon: "fab fa-fw fa-weixin"
+      url: "https://mp.weixin.qq.com/s?__biz=MzA5NzU4ODAwOQ==&mid=2247487464&idx=1&sn=c57c1b993dcb2c166d88bc2c0d414a10&chksm=909fc9aea7e840b874ebe3e37d0e2a58de7c4c4c5e18f1355b1a4be6378b5752c571c4aeddd4&token=587590048&lang=zh_CN#rd"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wongyah"
+    - label: "WeChat Subscription Account"
+      icon: "fab fa-fw fa-weixin"
+      url: "https://mp.weixin.qq.com/s?__biz=MzA5NzU4ODAwOQ==&mid=2247487464&idx=1&sn=c57c1b993dcb2c166d88bc2c0d414a10&chksm=909fc9aea7e840b874ebe3e37d0e2a58de7c4c4c5e18f1355b1a4be6378b5752c571c4aeddd4&token=587590048&lang=zh_CN#rd"
+    - label: "Zhihu"
+      icon: "fab fa-fw fa-zhihu"
+      url: "https://www.zhihu.com/column/c_1548252009672929280"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wongyah@126.com?subject=Awesome%20technical%20writing%20learning"
+
+head_scripts:
+  - https://code.jquery.com/jquery-3.2.1.min.js
+  - "/assets/js/github-alerts.js"
+
+# Reading Files
+exclude:
+  - code-of-conduct.md
+  - contributing.md
+  - license.md
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
 
 defaults:
   # awesome list (readme)
@@ -21,7 +119,17 @@ defaults:
     values:
       layout: single
       classes: wide
+      author_profile: true
+      sidebar:
+        - title: "Wechat Subscription Account"
+          image: /assets/images/socia-media/qrcode_wechat_258.jpg
+          image_alt: "Wechat subscription account ID: docSimpo"
+          text: "Scan the QR code to follow my Wechat subscription account (ID: docSimpo)."
+
 
 # Plugins
 plugins:
   - jekyll-include-cache
+
+# Building
+disable_disk_cache: BOOL

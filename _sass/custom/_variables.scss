@@ -1,0 +1,56 @@
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+/* system typefaces */
+$serif: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$sans-serif: $serif;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
+/*
+   colors
+   ========================================================================== */
+
+$gray: #7a8288 !default;
+$dark-gray: mix(#000, $gray, 50%) !default;
+$darker-gray: mix(#000, $gray, 60%) !default;
+$light-gray: mix(#fff, $gray, 50%) !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+
+$background-color: $lighter-gray;
+$page-background-color: #fff;
+$text-color: #202124;
+$muted-text-color: mix(#fff, $text-color, 50%);
+$primary-color: #31202e;
+$footer-background-color: #6699cc;
+$link-color: #0065b3;
+$masthead-link-color: #ffffffa0;
+$masthead-link-color-hover: #ffffff;
+
+/* user-defined variables */
+$masthead-bg-color: $footer-background-color;
+$masthead-site-title-color: #ffffff;
+$masthead-link-color-current: $masthead-link-color-hover;
+$masthead-link-padding-vertical: 0.25em;
+$masthead-link-padding-horizontal-current: 0.5em;
+
+/* headline scale */
+$h-size-1: 2em !default; // ~32px
+$h-size-2: 1.5em !default; // ~24px
+$h-size-3: 1.25em !default; // ~20px
+$h-size-4: 1.125em !default; // ~18px
+$h-size-5: 1.0625em !default; // ~17px
+$h-size-6: 1em !default; // ~16px
+
+/* brands */
+$zhihu-color: #1772f6;
+$weixin-color: #2aae67; // #07c160 (optional)
+
+/* Others */
+$border-radius-em: 0.25em !default;
+$font-weight-normal: 400 !default;
+$font-weight-strong: 600 !default;
+$padding-page: 40px !default;
+$padding-card: 20px !default;
+$border-radius-page: 2px !default;
+$box-shadow-page: 0px 2px 5px rgba(0, 0, 0, 0.25) !default;

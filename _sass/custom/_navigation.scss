@@ -1,0 +1,48 @@
+/* ==========================================================================
+   NAVIGATION
+   ========================================================================== */
+
+/*
+   Priority plus navigation
+   ========================================================================== */
+
+.greedy-nav {
+   background: $masthead-bg-color;
+
+   a {
+      &.site-title {
+         color: $masthead-site-title-color;
+      }
+   }
+
+   .visible-links {
+      a {
+         padding-top: $masthead-link-padding-vertical;
+         padding-bottom: $masthead-link-padding-vertical;
+         &:before {
+            height: 2px;
+            background: $masthead-link-color-hover;
+         }
+
+         &:hover:before {
+            -webkit-transform: scale(1,1);
+            -ms-transform: scale(1,1);
+            transform: scale(1,1); // reveal
+          }
+
+         &.current {
+            padding-left: $masthead-link-padding-horizontal-current;
+            padding-right: $masthead-link-padding-horizontal-current;
+            color: $masthead-link-color-current;
+            background-color: mix(#000000, $masthead-bg-color, 10%);
+            border-radius: 0.25em;
+         }
+
+         &.disabled {
+            pointer-events: none;
+            cursor: default;
+         }
+    
+      }
+   }
+}

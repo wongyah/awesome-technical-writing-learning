@@ -15,7 +15,6 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -55,6 +54,8 @@ layout: default
     {% endif %}
   </article>
 
+  {% include sidebar.html %}
+
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
@@ -79,4 +80,6 @@ layout: default
       </div>
     </div>
   {% endif %}
+
+
 </div>

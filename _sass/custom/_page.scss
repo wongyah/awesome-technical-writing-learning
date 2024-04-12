@@ -1,0 +1,31 @@
+/* ==========================================================================
+   SINGLE PAGE/POST
+   ========================================================================== */
+
+.page {
+  @include breakpoint($large) {
+    float: left;
+  }
+}
+
+.page__content {
+  background-color: $page-background-color;
+  padding: $padding-page;
+  border-radius: $border-radius-page;
+  box-shadow: $box-shadow-page;
+
+  h2 {
+    border-bottom: none;
+
+    &#contents {
+      margin-top: 0.5em;
+    }
+  }
+
+  hr {
+    &:first-of-type {
+      margin-top: 48px;
+    }
+  }
+
+}

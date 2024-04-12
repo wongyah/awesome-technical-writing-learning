@@ -1,0 +1,56 @@
+/* ==========================================================================
+   SIDEBAR
+   ========================================================================== */
+
+.sidebar {
+  @include clearfix;
+  
+  @include breakpoint($large) {
+    float: right;
+    clear: right;
+  }
+  
+  // Author profile: set the author profile background to white.
+  div[itemscope], .sidebar__wrapper {
+    position: relative;
+    width: 100%;
+    background-color: $page-background-color;
+    padding: $padding-card;
+    border-radius: $border-radius-page;
+    box-shadow: $box-shadow-page;
+  }
+
+
+}
+
+/* Author profile: Place the `Follow` button to the top right. */
+.author__urls-wrapper {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  @include breakpoint($large) {
+    position: static;
+  }
+}
+
+.sidebar__wrapper {
+  display: none;
+
+  @include breakpoint($large) {
+    display: block;
+    h3 {
+      font-size: $type-size-5;
+      margin: 0 0 1em;
+    }
+  
+    img {
+      // max-width: 80px;
+      border: 1px dotted $light-gray;
+  
+      // @include breakpoint($large) {
+        max-width: 110px;
+      // }
+    }
+  
+  }
+}

@@ -1,0 +1,29 @@
+
+.page__footer {
+  text-align: center;
+}
+
+.page__footer-copyright {
+  font-size: $type-size-6;
+}
+
+.page__footer-follow {
+  li {
+    font-size: 14px;
+    text-transform: none;
+  }
+
+  a {
+    font-weight: $font-weight-normal;
+    padding: 0.25em 0.5em;
+    border-radius: $border-radius-em;
+
+    &:hover {
+      background-color: #fff;
+      color: $footer-background-color;
+      font-weight: $font-weight-strong;
+      text-decoration: none;
+    }
+
+  }
+}

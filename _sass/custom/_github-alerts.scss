@@ -1,0 +1,111 @@
+/* Github Alerts */
+ 
+// -------------------------------------------- //
+
+// copied from view-source:https://github.com/orgs/community/discussions/16925
+
+.markdown-alert {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  color: inherit;
+  // modify to a secondary background color or comment out
+  background-color: var(--bg-secondary);
+  border-left: 0.3rem solid;
+  border-radius: 0.3rem;
+  padding:  0.5em;
+}
+
+.pInfo {
+    margin-top:  -1.1em;
+    margin-left: 0.75em;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: bold;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: #539bf5
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: #539bf5
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: #986ee2;
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: #986ee2;
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: #c69026;
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: #c69026;
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: #57ab5a;
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: #57ab5a;
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: #e5534b;
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: #e5534b;
+}
+
+// octicon
+.mr-2{
+  margin-right: var(--base-size-8, 8px) !important;
+}
+
+.octicon {
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+// generated with https://codepen.io/sosuke/pen/Pjoqqp
+// colors taken from https://github.com/orgs/community/discussions/16925
+
+.octicon-info {
+  filter: invert(55%) sepia(55%) saturate(2060%) hue-rotate(191deg) brightness(99%) contrast(93%);
+}
+
+.octicon-tip {
+  filter: invert(58%) sepia(64%) saturate(351%) hue-rotate(73deg) brightness(89%) contrast(90%);
+}
+
+.octicon-important {
+  filter: invert(67%) sepia(41%) saturate(6791%) hue-rotate(225deg) brightness(92%) contrast(92%);
+}
+
+.octicon-caution {
+  filter: invert(45%) sepia(68%) saturate(2586%) hue-rotate(333deg) brightness(95%) contrast(88%);
+}
+
+.octicon-warning {
+  filter: invert(78%) sepia(17%) saturate(5107%) hue-rotate(350deg) brightness(85%) contrast(78%);
+}
