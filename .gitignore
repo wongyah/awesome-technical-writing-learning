@@ -8,7 +8,8 @@
 
 # Ruby Gem
 *.gem
-.bundle
+.bundle/
+vendor/
 Gemfile.lock
 **/vendor/bundle
 
@@ -22,8 +23,8 @@ codekit-config.json
 .DS_Store
 
 # Jekyll generated files
-.jekyll-cache
+.jekyll-cache/
 .jekyll-metadata
-.sass-cache
+.sass-cache/
 _asset_bundler_cache
-_site
+_site/
