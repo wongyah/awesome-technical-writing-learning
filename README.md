@@ -51,7 +51,7 @@ To learn a new skill or a new subject systematically, there is nothing better th
 
 Learning by doing, rather than learning by reading. It's time to write or imporve your own technical documentation using the writing skills you have studied!
 
-But wait..., you still need to adopt an **📙 editorial style guide for technical writing** at first. If you never know or forget what editorial sytle guides are or why you need one, go back to the [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
+But wait ..., you still need to adopt an **📙 editorial style guide for technical writing** at first. If you never know or forget what editorial sytle guides are or why you need one, go back to the [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
 
 - [ASD-STE100 Simplied Technical English](https://www.asd-ste100.org/request.html) - An international specification containing a set of writing rules and a controlled dictionary, which is widely used in aerospace and defense industry and other manufacturing industries.
 - [The IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) - A popular book first published by IBM Press in 2011, which emphasizeds a helpful, direct, and authoritative tone and topic-based writing (DITA).
@@ -60,7 +60,7 @@ But wait..., you still need to adopt an **📙 editorial style guide for technic
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/) - A style guide for computer technology and software documentations, which emphasizes a warm and relax conversational voice.
 - [Google Developer Documentation Style Guide](https://developers.google.cn/style) -  A style guide for software documentations, which emphasizes a casual and natural conversational tone with specific format recommendations for HTML and Markdown.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html) - A style guide for open source software documentations written in Markdown, which emphasizes topic-based writing and format guidelines for Markdown.
-- [SUSE Documentation Style Guide](https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/#)- A style guide for software documentations, which emphasizes a professional tone and comprehensive markup reference for DocBook.
+- [SUSE Documentation Style Guide](https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/#) - A style guide for software documentations, which emphasizes a professional tone and comprehensive markup reference for DocBook.
 - [Apple Style Guide](https://support.apple.com/zh-cn/guide/applestyleguide/welcome/web) - A style guide for Apple materials, nothing special.
 
 In the real world, anything is possible. Take a suitable **📙 general propose editorial style guide** at hand, in case you step into an unknown situation someday.
@@ -96,7 +96,7 @@ Going with the trend of Docs as Code, more and more organizations and their tech
 
 ### Markdown
 
-Markdown is a lightweight markup language created by John Gruber in 2004. It has become a commonly used markup language to write technical documentations, especially those software documentations that host in Github or Github-like platforms.
+Markdown is a lightweight markup language created by John Gruber in 2004. It has become a commonly used markup language to write technical documentations, especially those software documentations that host in GitHub or GitHub-like platforms.
 
 If you are completely new to Markdown, the following **📔 guide** is the best start point for you:
 
@@ -107,8 +107,8 @@ Now, you have known a bit of Markdown 👏.  It is easy-to-read, easy-to-write, 
 
 Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are ready 💪!
 
-- [Dillinger](https://dillinger.io/) - A concise in-browser Markdown editor, which can create new files, export the files to Markdown, HTML, or PDF, synchronize with Github, Google Drive, or Dropbox repositories, etc.
-- [StackEdit](https://stackedit.io/) - An in-browser Markdown editor with rich functions, which can create new files or new folders, export the files to Markdown or HTML, synchronize with Github, Google Drive, or Dropbox accounts, etc.
+- [Dillinger](https://dillinger.io/) - A concise in-browser Markdown editor, which can create new files, export the files to Markdown, HTML, or PDF, synchronize with GitHub, Google Drive, or Dropbox repositories, etc.
+- [StackEdit](https://stackedit.io/) - An in-browser Markdown editor with rich functions, which can create new files or new folders, export the files to Markdown or HTML, synchronize with GitHub, Google Drive, or Dropbox accounts, etc.
 - [Visual Studio Code (VS Code)](https://code.visualstudio.com/) - A code editor developed by Microsoft, with built-in Markdown preview and many Markdown extentions.
     - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - An extension to enrich Markdown features in VS Code, such as automatic creation of table of contents, auto completions, printing Markdown files to HTML.
     - [Markdown Table Maker](https://github.com/kaisugi/vscode-markdown-tablemaker?tab=readme-ov-file#readme) - An extention to generate Markdown tables in an easy and intuitive way.
@@ -121,11 +121,11 @@ As Markdown got popular, more and more Markdown parsers appeared. However, Markd
 
 As a result, every time you choose a new Markdown tool, you had better read through its **📙 user manual or documentation** to know exactly what Markdown syntax it supports.
 
-- [Github Docs: Writing on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Basic Markdown syntax supported on Github.
-- [Github Flavored Markdown Specification](https://github.github.com/gfm/)
+- [GitHub Docs: Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Basic Markdown syntax supported on GitHub.
+- [GitHub Flavored Markdown Specification](https://github.github.com/gfm/)
 - [Markdown DITA Syntax](https://www.dita-ot.org/dev/reference/markdown/markdown-dita-syntax) - Markdown styntax in DITA Open Toolkit, which is the most commonly used engine for DITA publishing.
 - [MDITA Syntax](https://www.dita-ot.org/dev/reference/markdown/mdita-syntax) - Markdown syntax for Lightweight DITA in DITA Open Toolkit, which is the most commonly used engine for DITA publishing.
-- [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
+- [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - Markdown syntax of Pandoc, a universal document converter, which can convert between various formats.
 - [kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html) and [kramdown Syntax](https://kramdown.gettalong.org/syntax.html) - Markdown syntax of kramdown, which is the default Markdown parser for Jekyll.
 
 If you like to explore more resources about Markdown, see [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme).
@@ -183,7 +183,7 @@ DITA has much more elements than [Markdown](#markdown) and [reStructuredText](#r
 - [DITA Version 1.3](https://docs.oasis-open.org/dita/dita/v1.3/) - The latest official specifications for DITA, which was released on Jun 19, 2018.
 - [Lightweight DITA: An Introduction Version 1.0](https://docs.oasis-open.org/dita/LwDITA/v1.0/LwDITA-v1.0.html) - The Committee Note 02 for Lightweight DITA, which was approved on Oct 30, 2018.
 
-If you like to stay current with DITA developments, visit the **📁 official repositories** in Github often.
+If you like to stay current with DITA developments, visit the **📁 official repositories** in GitHub often.
 
 - [DITA Specification](https://github.com/oasis-tcs/dita) -  The official repository for the source files of the DITA specification developed and maintained by the DITA Technical Committee.
 - [Leightweight DITA Specification](https://kkgithub.com/oasis-tcs/dita-lwdita) -  The official repository for source files of the Lightweight DITA specification developed and maintained by the Lightweight DITA Subcommittee.
@@ -233,7 +233,7 @@ XSL (Extensible Stylesheet Language) is a styling language for XML. It consists 
 
 **XSLT** (XSL Transformations) is a language for tranforming XML documents. It is widely used in many purposes other than stylesheets, like transforming from one XML language to another, generating HTML pages from XML documents, etc.
 
-- [XSLT Tutorial](https://www.w3schools.com/xml/xsl_intro.asp) - A tutorial for XSLT beginners, which is developed by W3Schools..
+- [XSLT Tutorial](https://www.w3schools.com/xml/xsl_intro.asp) - A tutorial for XSLT beginners, which is developed by W3Schools.
 - [XSLT Version 2.0: Second Edition](https://www.w3.org/TR/xslt20/) - The latest official specification for XSLT, which was released on Mar 30, 2021.
 - [XSLT Version 3.0](https://www.w3.org/TR/xslt-30/) - The official specification for XSLT 3.0, which was released on Jun 8, 2017.
 
@@ -253,7 +253,7 @@ XSL (Extensible Stylesheet Language) is a styling language for XML. It consists 
 PowerShell is a task automation tool from Microsoft which is built into all versions of Windows.
 
 - [PowerShell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.4) - A book for PowerShell beginners, the contents on which has been open to public by Microsoft on its website with permission.
-- [Everything You Want to Know About ...](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.4) - A series of articles about PowerShell, which were collected from [PowerShell Explained](https://powershellexplained.com/) by Microsoft.
+- [Everything You Want to Know about ...](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.4) - A series of articles about PowerShell, which were collected from [PowerShell Explained](https://powershellexplained.com/) by Microsoft.
 - [PowerShell Documentation](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpowershell%2Fscripting%2Ftoc.json%3Fview%3Dpowershell-7.4) - The official documentation for PowerShell 7.4.
 
 If you like to explore more resources about PowerShell, see [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell).
