@@ -21,7 +21,7 @@
 
 .page__content {
   background-color: $page-background-color;
-  padding: 1.25em $padding-page;
+  padding: 1.5em $padding-page;
   border-radius: $border-radius-page;
   box-shadow: $box-shadow-page;
 
@@ -31,6 +31,14 @@
     &#contents {
       margin-top: 0.5em;
     }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    text-indent: -0.25em;
+		.header-link {
+			left: 0;
+			font-size: 0.5em;
+		}
   }
 
   hr {

@@ -115,7 +115,7 @@ Can't wait to try it out? Just adopt a **✒️ Markdown editor**, then you are 
     - [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf#readme) - An extenstion to convert Markdown files to PDF, PNG, JPEG, or HTML.
     - [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced#readme) - An extention to enrich Markdown features in Atom and VS Code, featuring the integration of Pandoc.
 
-If you go deep into Markdown, you will find [the controversy over it](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
+If you go deeper, you will find [the controversy over Markdown](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/).
 
 As Markdown got popular, more and more Markdown parsers appeared. However, Markdown has no well-accepted standard untill now. The Markdown syntax in each parser is to some extent different from others.
 

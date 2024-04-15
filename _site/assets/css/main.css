@@ -151,7 +151,7 @@ img.mfp-img { width: auto; max-width: 100%; height: auto; display: block; line-h
 .mfp-ie7 .mfp-close { top: 0; right: 0; padding-top: 0; }
 
 /* ========================================================================== MIXINS ========================================================================== */
-a:focus, button:focus { /* Default*/ outline: thin dotted #31202e; /* Webkit*/ outline: 5px auto #31202e; outline-offset: -2px; }
+a:focus, button:focus { /* Default*/ outline: thin dotted #5c8ab8; /* Webkit*/ outline: 5px auto #5c8ab8; outline-offset: -2px; }
 
 /* em function ========================================================================== */
 /* Bourbon clearfix ========================================================================== */
@@ -1402,16 +1402,18 @@ a { text-decoration: none; }
 
 @media (min-width: 64em) { .page { float: left; } }
 
-.page__content { background-color: #fff; padding: 1.25em 7.5%; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
+.page__content { background-color: #fff; padding: 1.5em 6%; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
 .page__content h2 { border-bottom: none; }
 .page__content h2#contents { margin-top: 0.5em; }
+.page__content h1, .page__content h2, .page__content h3, .page__content h4, .page__content h5, .page__content h6 { text-indent: -0.25em; }
+.page__content h1 .header-link, .page__content h2 .header-link, .page__content h3 .header-link, .page__content h4 .header-link, .page__content h5 .header-link, .page__content h6 .header-link { left: 0; font-size: 0.5em; }
 .page__content hr:first-of-type { margin-top: 48px; }
 
 /* ========================================================================== SIDEBAR ========================================================================== */
 .sidebar { clear: both; }
 .sidebar::after { clear: both; content: ""; display: table; }
 @media (min-width: 64em) { .sidebar { float: right; clear: right; } }
-.sidebar div[itemscope], .sidebar .sidebar__wrapper { position: relative; width: 100%; background-color: #fff; padding: 1.25em 7.5%; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
+.sidebar div[itemscope], .sidebar .sidebar__wrapper { position: relative; width: 100%; background-color: #fff; padding: 1.5em 6%; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
 
 /* Author profile: Place the `Follow` button to the top right. */
 .author__urls-wrapper { position: absolute; right: 20px; top: 20px; }

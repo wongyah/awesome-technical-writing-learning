@@ -33,6 +33,7 @@ $masthead-site-title-color: #ffffff;
 $masthead-link-color-current: $masthead-link-color-hover;
 $masthead-link-padding-vertical: 0.25em;
 $masthead-link-padding-horizontal-current: 0.5em;
+$focus-color: mix(#000000, $masthead-bg-color, 10%) !default;
 
 /* headline scale */
 $h-size-1: 2em !default; // ~32px
@@ -50,7 +51,7 @@ $weixin-color: #2aae67; // #07c160 (optional)
 $border-radius-em: 0.25em !default;
 $font-weight-normal: 400 !default;
 $font-weight-strong: 600 !default;
-$padding-page: 5% !default;
+$padding-page: 6% !default;
 $padding-vertical: 1em !default;
 // $padding-page: 40px !default;
 // $padding-card: 20px !default;

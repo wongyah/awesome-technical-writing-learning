@@ -11,7 +11,7 @@
 
    .hidden-links {
       border: 1px solid #fff;
-      background: mix(#000000, $masthead-bg-color, 10%);
+      background: $focus-color;
 
       .masthead__menu-item {
          a{
@@ -46,7 +46,7 @@
             padding-left: $masthead-link-padding-horizontal-current;
             padding-right: $masthead-link-padding-horizontal-current;
             color: $masthead-link-color-current;
-            background-color: mix(#000000, $masthead-bg-color, 10%);
+            background-color: $focus-color;
             border-radius: 0.25em;
          }
 
