@@ -16,6 +16,28 @@
   }
 }
 
+/* Navicon */
+.navicon {
+  background: $masthead-link-color;
+  
+  &:before,
+  &:after {
+    background: $masthead-link-color;
+  }
+}
+
+
+.greedy-nav__toggle:hover {
+  .navicon,
+  .navicon:before,
+  .navicon:after {
+    background: $masthead-link-color;
+  }
+
+ }
+
+
+
 .fa-zhihu {
   color: $zhihu-color;
 }

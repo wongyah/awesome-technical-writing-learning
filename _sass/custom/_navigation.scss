@@ -10,7 +10,15 @@
    background: $masthead-bg-color;
 
    .hidden-links {
-      background: $masthead-bg-color;
+      border: 1px solid #fff;
+      background: mix(#000000, $masthead-bg-color, 10%);
+
+      .masthead__menu-item {
+         a{
+            color: $masthead-link-color-hover;
+         }
+      }
+      
    }
 
    a {

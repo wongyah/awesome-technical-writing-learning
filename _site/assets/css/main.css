@@ -1317,7 +1317,8 @@ a { text-decoration: none; }
 /* ========================================================================== NAVIGATION ========================================================================== */
 /* Priority plus navigation ========================================================================== */
 .greedy-nav { background: #6699cc; }
-.greedy-nav .hidden-links { background: #6699cc; }
+.greedy-nav .hidden-links { border: 1px solid #fff; background: #5c8ab8; }
+.greedy-nav .hidden-links .masthead__menu-item a { color: #ffffff; }
 .greedy-nav a.site-title { color: #ffffff; }
 .greedy-nav .visible-links a { padding-top: 0.25em; padding-bottom: 0.25em; }
 .greedy-nav .visible-links a:before { height: 2px; background: #ffffff; }
@@ -1384,6 +1385,12 @@ a { text-decoration: none; }
 /* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
 @supports (pointer-events: none) { .greedy-nav__toggle:before { background-color: #6699cc; } }
 
+/* Navicon */
+.navicon { background: #ffffffa0; }
+.navicon:before, .navicon:after { background: #ffffffa0; }
+
+.greedy-nav__toggle:hover .navicon, .greedy-nav__toggle:hover .navicon:before, .greedy-nav__toggle:hover .navicon:after { background: #ffffffa0; }
+
 .fa-zhihu { color: #1772f6; }
 
 .fa-weixin { color: #2aae67; }
@@ -1395,7 +1402,7 @@ a { text-decoration: none; }
 
 @media (min-width: 64em) { .page { float: left; } }
 
-.page__content { background-color: #fff; padding: 40px; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
+.page__content { background-color: #fff; padding: 1.25em 7.5%; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
 .page__content h2 { border-bottom: none; }
 .page__content h2#contents { margin-top: 0.5em; }
 .page__content hr:first-of-type { margin-top: 48px; }
@@ -1404,7 +1411,7 @@ a { text-decoration: none; }
 .sidebar { clear: both; }
 .sidebar::after { clear: both; content: ""; display: table; }
 @media (min-width: 64em) { .sidebar { float: right; clear: right; } }
-.sidebar div[itemscope], .sidebar .sidebar__wrapper { position: relative; width: 100%; background-color: #fff; padding: 20px; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
+.sidebar div[itemscope], .sidebar .sidebar__wrapper { position: relative; width: 100%; background-color: #fff; padding: 1.25em 7.5%; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
 
 /* Author profile: Place the `Follow` button to the top right. */
 .author__urls-wrapper { position: absolute; right: 20px; top: 20px; }
