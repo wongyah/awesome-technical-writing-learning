@@ -2,6 +2,17 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+#main {
+  padding-left: 0;
+  padding-right: 0;
+  
+  @include breakpoint($large) {
+    padding-left: 1em;
+    padding-right: 1em;
+
+  }
+}
+
 .page {
   @include breakpoint($large) {
     float: left;

@@ -6,17 +6,17 @@ minimal_mistakes_skin    : "contrast"
 
 # Site settings
 locale                   : "en-US"
-title                    : "docSimpo"
+title                    : "docSimpo | Awesome Technical Writing Learning"
 title_separator          : "|"
 # subtitle                 : site tagline that appears below site title in masthead
 name                     : "Yedda Wang"
 description              : "A curated list of awesome and free resources about technical writing."
-url                      : "https://wongyah.github.io"
+url                      : "https://resources.docsimpo.work"
 baseurl                  : "/awesome-technical-writing-learning"
 repository               : "wongyah/awesome-technical-writing-learning"
 # teaser                   : path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/logo/docsimpo-logo@2x.png"
-# masthead_title           : overrides the website title displayed in the masthead, use " " for no title
+masthead_title           :  "docSimpo" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 # words_per_minute         : 200
 atom_feed:

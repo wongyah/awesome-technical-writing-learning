@@ -9,6 +9,10 @@
 .greedy-nav {
    background: $masthead-bg-color;
 
+   .hidden-links {
+      background: $masthead-bg-color;
+   }
+
    a {
       &.site-title {
          color: $masthead-site-title-color;

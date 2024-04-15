@@ -1,4 +1,20 @@
+/* ==========================================================================
+   UTILITY CLASSES
+   ========================================================================== */
 
+/*
+   Visibility
+   ========================================================================== */
+
+/* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
+
+.greedy-nav__toggle {
+  &:before {
+    @supports (pointer-events: none) {
+      background-color: #6699cc;
+    }
+  }
+}
 
 .fa-zhihu {
   color: $zhihu-color;

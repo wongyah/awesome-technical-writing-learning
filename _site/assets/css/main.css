@@ -1297,7 +1297,14 @@ html { /* apply a natural box layout model to all elements */ box-sizing: border
 
 h1, h2, h3, h4, h5, h6 { margin: 2em 0 0.5em; line-height: 1.5; font-weight: 500; }
 
-h1 { margin-top: 0; }
+h1 { margin-top: 0; font-size: 1.5em; }
+@media (min-width: 64em) { h1 { font-size: 2em; } }
+
+h2 { font-size: 1.25em; }
+@media (min-width: 64em) { h2 { font-size: 1.5em; } }
+
+h3 { font-size: 1.125em; }
+@media (min-width: 64em) { h3 { font-size: 1.25em; } }
 
 p { margin-bottom: 1.5em; }
 
@@ -1310,6 +1317,7 @@ a { text-decoration: none; }
 /* ========================================================================== NAVIGATION ========================================================================== */
 /* Priority plus navigation ========================================================================== */
 .greedy-nav { background: #6699cc; }
+.greedy-nav .hidden-links { background: #6699cc; }
 .greedy-nav a.site-title { color: #ffffff; }
 .greedy-nav .visible-links a { padding-top: 0.25em; padding-bottom: 0.25em; }
 .greedy-nav .visible-links a:before { height: 2px; background: #ffffff; }
@@ -1370,8 +1378,21 @@ a { text-decoration: none; }
 
 .octicon-warning { filter: invert(78%) sepia(17%) saturate(5107%) hue-rotate(350deg) brightness(85%) contrast(78%); }
 
+/* Utility classes */
+/* ========================================================================== UTILITY CLASSES ========================================================================== */
+/* Visibility ========================================================================== */
+/* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
+@supports (pointer-events: none) { .greedy-nav__toggle:before { background-color: #6699cc; } }
+
+.fa-zhihu { color: #1772f6; }
+
+.fa-weixin { color: #2aae67; }
+
 /* Layout specific */
 /* ========================================================================== SINGLE PAGE/POST ========================================================================== */
+#main { padding-left: 0; padding-right: 0; }
+@media (min-width: 64em) { #main { padding-left: 1em; padding-right: 1em; } }
+
 @media (min-width: 64em) { .page { float: left; } }
 
 .page__content { background-color: #fff; padding: 40px; border-radius: 2px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25); }
