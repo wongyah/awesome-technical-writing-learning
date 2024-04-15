@@ -2,5 +2,5 @@
 main:
   - title: "Resources"
     url: "/"
-  - title: "Github"
+  - title: "GitHub"
     url: "https://github.com/wongyah/awesome-technical-writing-learning"

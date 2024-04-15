@@ -64,7 +64,7 @@ og_image                 : /assets/images/docsimpo-logo-og@2x.png
 author:
   name             : "Yedda Wang"
   avatar           : "https://avatars.githubusercontent.com/u/38174537?s=400&u=d532db4c31141ce67458174d2dc8b65782a80237&v=4"
-  bio              : "If you like this list, feel free to leave a star on my Github repository. :-))"
+  bio              : "If you like this list, feel free to leave a star on my GitHub repository. :-))"
   location         : "Beijing, China"
   links:
     - label: "GitHub"
