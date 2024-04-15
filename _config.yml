@@ -11,7 +11,7 @@ title_separator          : "|"
 # subtitle                 : site tagline that appears below site title in masthead
 name                     : "Yedda Wang"
 description              : "A curated list of awesome and free resources about technical writing."
-home_url                 : "www.docsimpo.work"
+home_page                 : "https://www.docsimpo.work"
 url                      : "https://resources.docsimpo.work"
 # baseurl                  : "/awesome-technical-writing-learning"
 repository               : "wongyah/awesome-technical-writing-learning"
