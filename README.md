@@ -268,7 +268,7 @@ XSL (Extensible Stylesheet Language) is a styling language for XML. It consists 
 PowerShell is a task automation tool from Microsoft which is built into all versions of Windows.
 
 - [PowerShell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.4) - A book for PowerShell beginners, the contents in which has been open to public by Microsoft on its website with permission.
-- [Everything You Want to Know about ...](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.4) - A series of articles about PowerShell, which were collected from [PowerShell Explained](https://powershellexplained.com/) by Microsoft.
+- [Everything You Want to Know about &hellip;](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.4) - A series of articles about PowerShell, which were collected from [PowerShell Explained](https://powershellexplained.com/) by Microsoft.
 - [PowerShell Documentation](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpowershell%2Fscripting%2Ftoc.json%3Fview%3Dpowershell-7.4) - The official documentation for PowerShell 7.4.
 
 If you like to explore more resources about PowerShell, see [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell).
