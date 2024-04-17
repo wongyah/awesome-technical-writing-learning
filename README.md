@@ -51,7 +51,7 @@ To learn a new skill or a new subject systematically, there is nothing better th
 
 Learning by doing, rather than learning by reading. It's time to write or imporve your own technical documentation using the writing skills you have studied!
 
-But wait ~~, you still need to adopt an **📙 editorial style guide for technical writing** at first. If you never know or forget what editorial sytle guides are or why you need one, go back to the [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
+But wait a minute, you still need to adopt an **📙 editorial style guide for technical writing** at first. If you never know or forget what editorial sytle guides are or why you need one, go back to the [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
 
 - [ASD-STE100 Simplied Technical English](https://www.asd-ste100.org/request.html) - An international specification containing a set of writing rules and a controlled dictionary, which is widely used in aerospace and defense industry and other manufacturing industries.
 - [The IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) - A popular book first published by IBM Press in 2011, which emphasizeds a helpful, direct, and authoritative tone and topic-based writing (DITA).
@@ -252,7 +252,7 @@ XSL (Extensible Stylesheet Language) is a styling language for XML. It consists 
 
 PowerShell is a task automation tool from Microsoft which is built into all versions of Windows.
 
-- [PowerShell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.4) - A book for PowerShell beginners, the contents on which has been open to public by Microsoft on its website with permission.
+- [PowerShell 101](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.4) - A book for PowerShell beginners, the contents in which has been open to public by Microsoft on its website with permission.
 - [Everything You Want to Know about ...](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-arrays?view=powershell-7.4) - A series of articles about PowerShell, which were collected from [PowerShell Explained](https://powershellexplained.com/) by Microsoft.
 - [PowerShell Documentation](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpowershell%2Fscripting%2Ftoc.json%3Fview%3Dpowershell-7.4) - The official documentation for PowerShell 7.4.
 
