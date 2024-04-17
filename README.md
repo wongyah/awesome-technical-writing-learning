@@ -51,12 +51,12 @@ To learn a new skill or a new subject systematically, there is nothing better th
 
 Learning by doing, rather than learning by reading. It's time to write or imporve your own technical documentation using the writing skills you have studied!
 
-But wait ..., you still need to adopt an **📙 editorial style guide for technical writing** at first. If you never know or forget what editorial sytle guides are or why you need one, go back to the [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
+But wait ~~, you still need to adopt an **📙 editorial style guide for technical writing** at first. If you never know or forget what editorial sytle guides are or why you need one, go back to the [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
 
 - [ASD-STE100 Simplied Technical English](https://www.asd-ste100.org/request.html) - An international specification containing a set of writing rules and a controlled dictionary, which is widely used in aerospace and defense industry and other manufacturing industries.
 - [The IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) - A popular book first published by IBM Press in 2011, which emphasizeds a helpful, direct, and authoritative tone and topic-based writing (DITA).
-- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.1/) - A style guide for all kinds of technical documentations, including training and examination content. It emphasizes a formal writing sytle, with [IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) as the preferred reference.
-- [Red Hat Supplementary Style Guide for Product Documentation](https://redhat-documentation.github.io/supplementary-style-guide/) - A style guide supplementary to the [IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf), which provides format examples in AsciiDoc.
+- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.1/) - A style guide for all kinds of technical documentations, including training and examination content. It emphasizes a formal writing sytle, with IBM Style Guide as the preferred reference.
+- [Red Hat Supplementary Style Guide for Product Documentation](https://redhat-documentation.github.io/supplementary-style-guide/) - A style guide supplementary to the IBM Style Guide, which provides format examples in AsciiDoc.
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/) - A style guide for computer technology and software documentations, which emphasizes a warm and relax conversational voice.
 - [Google Developer Documentation Style Guide](https://developers.google.cn/style) -  A style guide for software documentations, which emphasizes a casual and natural conversational tone with specific format recommendations for HTML and Markdown.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html) - A style guide for open source software documentations written in Markdown, which emphasizes topic-based writing and format guidelines for Markdown.
@@ -67,7 +67,7 @@ In the real world, anything is possible. Take a suitable **📙 general propose 
 
 - [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html) - A widely used style guide over 1000 pages, which was published continuously since 1906 and now is in its 17th edition (subscription required).
 - [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf) - A 30-page sytle guide to writing and formatting documents consistently.
-- [University of Oxford Style Guide Quick Reference](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf) - A one-page quick reference guide with the most commonly requested information.
+- [University of Oxford Style Guide Quick Reference](https://www.ox.ac.uk/sites/files/oxford/Style%20Guide%20quick%20reference%20A-Z.pdf) - A one-page quick reference guide with the most commonly requested information.
 
 And you know, select a suitable **📘 dictionary** too!
 
@@ -132,7 +132,7 @@ If you like to explore more resources about Markdown, see [Awesome Markdown](htt
 
 ### reStructuredText
 
-reStructuredText is a lightweight markup language that is more well-defined compared to [Markdown](#markdown) and widely used for Python documentation. 
+reStructuredText is a lightweight markup language that is more well-defined compared to Markdown and widely used for Python documentation. 
 
 If you are completely new to reStructuredText, the following **📔 introductions and tutorials** are the best start points for you:
 
@@ -178,7 +178,7 @@ You can use DITA to improve your own technical documentation. If you don't have 
 - [LwDITA Code Samples](https://github.com/DITAWriter/LwDITA_Code_Samples#readme) - Various manuals of a 1970s computer rewritten in Lightweight DITA.
 - [DITA Glossary Example](https://github.com/DITAWriter/dita_glossary_example#readme) - A book named *On Yacht Sailing* rewritten in DITA to demontrate how to implement glossories in DITA.
 
-DITA has much more elements than [Markdown](#markdown) and [reStructuredText](#restructuredtext). If you encounter soemthing unknown, resort to **📘 official specifications**.
+DITA has much more elements than Markdown and reStructuredText. If you encounter soemthing unknown, resort to **📘 official specifications**.
 
 - [DITA Version 1.3](https://docs.oasis-open.org/dita/dita/v1.3/) - The latest official specifications for DITA, which was released on Jun 19, 2018.
 - [Lightweight DITA: An Introduction Version 1.0](https://docs.oasis-open.org/dita/LwDITA/v1.0/LwDITA-v1.0.html) - The Committee Note 02 for Lightweight DITA, which was approved on Oct 30, 2018.
