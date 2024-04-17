@@ -9,28 +9,35 @@ Technical writing is an essential skill of conveying complex technical informati
 > [!TIP] 
 > A few resources are unaccessible in some countries, such as China. If an alternative is available in a specific country, it is listed as a sublist item of the unaccessible one followed by a mark of `Country Name` in a pair of parentheses.
 
-Want to suggest a resource? Check out the [contribution guidelines](https://github.com/wongyah/awesome-technical-writing-learning/blob/main/contributing.md)! 👐
+Want to suggest a resource? Check out the [Contribution Guidelines](https://github.com/wongyah/awesome-technical-writing-learning/blob/main/contributing.md)! 👐
 
 ---
 
 <!-- omit from toc -->
 ## Contents
 
-- [Technical Writing](#technical-writing)
-- [Technical Illustrations](#technical-illustrations)
-- [Authoring Formats](#authoring-formats)
+- [Technical writing](#technical-writing)
+  - [Courses for beginners](#courses-for-beginners)
+  - [Books](#books)
+  - [Editorial style guides for technical writing](#editorial-style-guides-for-technical-writing)
+  - [General purpose editorial style guides](#general-purpose-editorial-style-guides)
+  - [Dictionaries](#dictionaries)
+- [Technical illustrations](#technical-illustrations)
+- [Authoring formats](#authoring-formats)
   - [Markdown](#markdown)
   - [reStructuredText](#restructuredtext)
   - [DITA](#dita)
   - [S1000D](#s1000d)
-- [Text Automatic Processing](#text-automatic-processing)
-  - [Regular Expression](#regular-expression)
+- [Text automatic processing](#text-automatic-processing)
+  - [Regular expression](#regular-expression)
   - [XSL](#xsl)
   - [PowerShell](#powershell)
 
 ---
 
-## Technical Writing
+## Technical writing
+
+### Courses for beginners
 
 If you are completely new to technical writing, the following **🔔 courses** are the best start points for you:
 
@@ -38,6 +45,8 @@ If you are completely new to technical writing, the following **🔔 courses** a
     - [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing) (China)
 - [GitLab Technical Writing Fundamentals Course](https://handbook.gitlab.com/handbook/product/ux/technical-writing/fundamentals/) - A four-video course teaching how to write and edit GitLab documentation.
 - [Coursera: Introduction to Technical Writing](https://www.coursera.org/learn/technical-writing-introduction) - A systematic introduction to technical writing, including the features, workflow, software and tools, history and futures, etc.
+
+### Books
 
 Now, you have known a bit of technical writing 👏! Not enough for you? Let's go further 🤠!
 
@@ -48,6 +57,8 @@ To learn a new skill or a new subject systematically, there is nothing better th
 - [Documentation Guide](https://www.writethedocs.org/guide/) - A living guide on best practices for creating software documentation, developed and maintained by the Write the Docs community.
 - [Developing Quality Technical Information: A Handbook for Writers and Editors (IBM Press)](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975) - A must-read book of technical writers for all time, even though it is not a free resource.
 - [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) - An open textbook authored by five professionals at Kennesaw State University, which has been revised and updated to 4th edition.
+
+### Editorial style guides for technical writing
 
 Learning by doing, rather than learning by reading. It's time to write or imporve your own technical documentation using the writing skills you have studied!
 
@@ -63,18 +74,22 @@ But wait a minute, you still need to adopt an **📙 editorial style guide for t
 - [SUSE Documentation Style Guide](https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/#) - A style guide for software documentations, which emphasizes a professional tone and comprehensive markup reference for DocBook.
 - [Apple Style Guide](https://support.apple.com/zh-cn/guide/applestyleguide/welcome/web) - A style guide for Apple materials, nothing special.
 
-In the real world, anything is possible. Take a suitable **📙 general propose editorial style guide** at hand, in case you step into an unknown situation someday.
+### General purpose editorial style guides
+
+In the real world, anything is possible. Take a suitable **📙 general purpose editorial style guide** at hand, in case you step into an unknown situation someday.
 
 - [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html) - A widely used style guide over 1000 pages, which was published continuously since 1906 and now is in its 17th edition (subscription required).
 - [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf) - A 30-page sytle guide to writing and formatting documents consistently.
 - [University of Oxford Style Guide Quick Reference](https://www.ox.ac.uk/sites/files/oxford/Style%20Guide%20quick%20reference%20A-Z.pdf) - A one-page quick reference guide with the most commonly requested information.
+
+### Dictionaries
 
 And you know, select a suitable **📘 dictionary** too!
 
 - [American Heritage Dictionary](https://ahdictionary.com/)
 - [Merriam-Webster Dictionary](https://www.merriam-webster.com/)
 
-## Technical Illustrations
+## Technical illustrations
 
 A picture is worth a thousand words.
 
@@ -90,7 +105,7 @@ Technical illustrators used to use software like Adobe Illustrator or CAD to cre
 - [XVL Studio 3D CAD Corel Edition](https://www.coreldraw.com/en/product/technical-suite/xvl-studio/) - A commercial software for technical illustrations developed by CorelDRAW.
 - [XVL Technical Illustration Suite](https://www.lattice3d.com/products/xvl-technical-illustration-suite) - A suite of commercial softwares for technical illustrations developed by Lattice Technology.
 
-## Authoring Formats
+## Authoring formats
 
 Going with the trend of Docs as Code, more and more organizations and their technical writers have ditched word processors and switched to markup languages.
 
@@ -202,11 +217,11 @@ Here are the **📁 official specifications and implementations in specific indu
 - [S1000D DIG Business Rules](https://www.gerkemulder.nl/DIG_Business_Rules_issue_1.0_170619.pdf) - An implementation of S1000D specification in defense industries.
 - [The Shipdex Protocol: Issue 2.3](http://www.shipdex.org/shipdex-viewer-free.asp) - An implementation of S1000D specification in shipping industry.
 
-## Text Automatic Processing
+## Text automatic processing
 
 Equipping yourself with some programming skills will enable you to complete some really cool jobs, such as automating workflow and batch modifying.
 
-### Regular Expression
+### Regular expression
 
 A regular expression (regex) is a pattern that the regex engine can use to find or match substrings. Regex is extremely useful in finding and replacing texts or strings in text files.
 
