@@ -18,7 +18,7 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
 
 - [Technical writing](#technical-writing)
   - [Courses for beginners](#courses-for-beginners)
-  - [Books](#books)
+  - [Textbooks and tutorials](#textbooks-and-tutorials)
   - [Editorial style guides for technical writing](#editorial-style-guides-for-technical-writing)
   - [General purpose editorial style guides](#general-purpose-editorial-style-guides)
   - [Dictionaries](#dictionaries)
@@ -46,11 +46,11 @@ If you are completely new to technical writing, the following **🔔 courses** a
 - [GitLab Technical Writing Fundamentals Course](https://handbook.gitlab.com/handbook/product/ux/technical-writing/fundamentals/) - A four-video course teaching how to write and edit GitLab documentation.
 - [Coursera: Introduction to Technical Writing](https://www.coursera.org/learn/technical-writing-introduction) - A systematic introduction to technical writing, including the features, workflow, software and tools, history and futures, etc.
 
-### Books
+### Textbooks and tutorials
 
 Now, you have known a bit of technical writing 👏! Not enough for you? Let's go further 🤠!
 
-To learn a new skill or a new subject systematically, there is nothing better than **📚 academic textbooks and ebooks** self-published by experienced professionals at work. Here you are, enjoy 😄!
+To learn a new skill or a new subject systematically, there is nothing better than **📚 academic textbooks and tutorials** self-published by experienced professionals at work. Here you are, enjoy 😄!
 
 - [Software Technical Writing: A Guidebook](https://jamesg.blog/2024/01/03/software-technical-writing/) - A technical writer at a computer vision startup confessed his daily work in every detail.
 - [Documentation APIs: A Guide for Technical Writers and Engineers](https://idratherbewriting.com/learnapidoc/) - Tom Johnson, a senior technical writer at Google and the founder of the popular blog I'd Rather Be Writing, teach you how to write documentation for API step by step.
@@ -78,9 +78,10 @@ But wait a minute, you still need to adopt an **📙 editorial style guide for t
 
 In the real world, anything is possible. Take a suitable **📙 general purpose editorial style guide** at hand, in case you step into an unknown situation someday.
 
-- [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html) - A widely used style guide over 1000 pages, which was published continuously since 1906 and now is in its 17th edition (subscription required).
-- [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf) - A 30-page sytle guide to writing and formatting documents consistently.
 - [University of Oxford Style Guide Quick Reference](https://www.ox.ac.uk/sites/files/oxford/Style%20Guide%20quick%20reference%20A-Z.pdf) - A one-page quick reference guide with the most commonly requested information.
+- [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf) - A 30-page sytle guide to writing and formatting documents consistently.
+- [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html) - A widely used style guide over 1000 pages, which was published continuously since 1906 and now is in its 17th edition (subscription required).
+- [AMA Manual of Style](https://academic.oup.com/amamanualofstyle) - A widely used style guide in medical and scientific publishing, which was published continuously since 1962 and now is in its 11th edition (subscription required).
 
 ### Dictionaries
 
