@@ -10,7 +10,6 @@
 *.gem
 .bundle/
 vendor/
-Gemfile.lock
 **/vendor/bundle
 
 # Node.js and NPM
@@ -26,4 +25,5 @@ codekit-config.json
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
+_site/
 _asset_bundler_cache

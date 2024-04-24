@@ -6,3 +6,5 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 
 # Avoid polling for changes (according to the error messages after run `bundle exec jekyll serve`)
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+gem "webrick", "~> 1.8"
