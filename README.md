@@ -19,6 +19,8 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
   - [Editorial style guides for technical writing](#editorial-style-guides-for-technical-writing)
   - [General purpose editorial style guides](#general-purpose-editorial-style-guides)
   - [Dictionaries](#dictionaries)
+  - [Writing assistant software](#writing-assistant-software)
+  - [Readability checkers](#readability-checkers)
 - [Technical illustrations](#technical-illustrations)
 - [Authoring formats](#authoring-formats)
   - [Markdown](#markdown)
@@ -91,6 +93,19 @@ And you know, select a suitable **📘 dictionary** too!
 
 Now, you can use your writing skills to improve your technical documentation!
 
+### Writing assistant software
+
+- [Grammarly](https://www.grammarly.com/) - Online grammar checker that automatically evaluates writing quality.
+- [QuillBot](https://quillbot.com/) - Online grammar checker and rewriting tool.
+- [ChatGPT](https://chat.openai.com/) - AI chatbot developed by OpenAI.
+- [Tongyi Qianwen](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee125bSWt) - ChatGPT-like chatbot developed by Alibaba, one of China's largest technology companies.
+
+### Readability checkers
+
+- [Free Readability Checker](https://sitechecker.pro/readability-checker/) - For web pages (URL) and texts.
+- [Readability Formulas](https://readabilityformulas.com/readability-scoring-system.php) - For documents (.txt, .pdf, or .docx) and texts.
+- [Wordcalc](https://www.wordcalc.com/readability/) - For texts only.
+
 ## Technical illustrations
 
 A picture is worth a thousand words.
@@ -100,7 +115,7 @@ High-tech industries usually rely heavily on technical illustrations in their te
 - [Technical Illustration in the 21st Century: A Primer for Today's Professionals](https://docslib.org/doc/3602588/technical-illustration-in-the-21st-century-a-primer-for-todays) - White paper produced by Bettina Giemsa at PTC.
 - [The State of Technical Illustration and Documentation](https://www.coreldraw.com/en/learn/webinars/ebook-state-of-tech-design/) - Survey report on technical illustration and documentation market, conducted by Corel in 2022.
 
-Technical illustrators used to use Adobe Illustrator or CAD to create technical illustrations. But now, **💻 software specially made for technical illustrations** is becoming more and more popular.
+Technical illustrators used to create technical illustrations using Adobe Illustrator or CAD. However, **💻 software designed specially for technical illustrations** is becoming more and more popular in these days.
 
 - [Arbortext IsoDraw Data Sheet](https://www.ptc.com/-/media/Files/PDFs/Products/Arbortext/2019-datasheet/IsoDraw.pdf) and [Arbortext IsoDraw Online Help](https://support.ptc.com/help/isodraw/r7.3/en/index.html) - Commercial software for technical illustrations, developed by PTC.
 - [SOLIDWORKS Composer](https://www.solidworks.com/product/solidworks-composer) and [SOLIDWORKS Composer Help](https://help.solidworks.com/2021/English/DSSWXComposerDoc/FrontmatterSWXComposer/DSSWXComposerDocHome.htm) - Commercial software for technical illustrations, developed by SolidWorks.
@@ -136,7 +151,7 @@ If you go deeper, you will find [the controversy over Markdown](https://erichols
 
 As Markdown got popular, more and more Markdown parsers appeared. However, Markdown has no well-accepted standard untill now. The Markdown syntax in each parser is to some extent different from others.
 
-As a result, every time you choose a new Markdown tool, you had better read through its **📙 user manual or documentation** to know exactly what Markdown syntax it supports.
+As a result, whenever you select a new Markdown tool, you must read through its **📙 user manual or documentation** to know exactly what Markdown syntax it supports.
 
 - [GitHub Docs: Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - Basic Markdown syntax supported on GitHub.
 - [GitHub Flavored Markdown Specification](https://github.github.com/gfm/)
