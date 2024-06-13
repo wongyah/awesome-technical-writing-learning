@@ -31,6 +31,11 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
   - [Regular expressions](#regular-expressions)
   - [XSL](#xsl)
   - [PowerShell](#powershell)
+- [Version control](#version-control)
+- [Professional communications and knowledge sharing](#professional-communications-and-knowledge-sharing)
+  - [Blogs](#blogs)
+  - [Podcasts](#podcasts)
+  - [Webinars](#webinars)
 
 ---
 
@@ -97,6 +102,7 @@ Now, you can use your writing skills to improve your technical documentation!
 
 - [Grammarly](https://www.grammarly.com/) - Online grammar checker that automatically evaluates writing quality.
 - [QuillBot](https://quillbot.com/) - Online grammar checker and rewriting tool.
+- [LanguageTool](https://languagetool.org/) - AI-based spelling, style and grammar checker.
 - [ChatGPT](https://chat.openai.com/) - AI chatbot developed by OpenAI.
 - [Tongyi Qianwen](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee125bSWt) - ChatGPT-like chatbot developed by Alibaba, one of China's largest technology companies.
 
@@ -289,3 +295,32 @@ PowerShell is a task automation tool from Microsoft, which is built into all ver
 - [PowerShell Documentation](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpowershell%2Fscripting%2Ftoc.json%3Fview%3Dpowershell-7.4) - The official documentation for PowerShell 7.4.
 
 If you like to explore more resources about PowerShell, see [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell).
+
+## Version control
+
+- [Pro Git](https://git-scm.com/book/en/v2)
+- [Learn Git](https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control)
+- [Git Cheat Sheets](https://training.github.com/)
+- [Git Reference](https://git-scm.com/docs)
+
+## Professional communications and knowledge sharing
+
+### Blogs
+
+- [I'd Rather Be Writing](https://idratherbewriting.com/)
+- [DITA Writer](https://www.ditawriter.com/)
+- [JustWriteClick](https://justwriteclick.com/)
+- [Everything Technical Writing](https://www.everythingtechnicalwriting.com/)
+- [James' Coffee Blog](https://jamesg.blog/technical-writing/)
+
+### Podcasts
+
+- [Write the Docs Podcast](https://podcast.writethedocs.org/)
+- [I'd Rather Be Writing Podcasts](https://idratherbewriting.com/podcasts/)
+
+### Webinars
+
+- [The Content Wrangler](https://www.brighttalk.com/channel/9273/)
+- [Quark](https://www.brighttalk.com/channel/20195/)
+
+
