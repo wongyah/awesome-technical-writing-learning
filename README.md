@@ -27,6 +27,10 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
   - [reStructuredText](#restructuredtext)
   - [DITA](#dita)
   - [S1000D](#s1000d)
+- [Content accessibility](#content-accessibility)
+  - [Laws and regulations](#laws-and-regulations)
+  - [Standards](#standards)
+  - [Others](#others)
 - [Text processing](#text-processing)
   - [Regular expressions](#regular-expressions)
   - [XSL](#xsl)
@@ -239,6 +243,30 @@ Here are the **📁 official specifications and implementations in specific indu
 - [ATA Spec 1000BR: Civil Aviation Business Rules for S1000D](https://publications.airlines.org/CommerceProductDetail.aspx?Product=308) - An implementation of S1000D specification in civil aviation industry, which can not be accessd for free.
 - [S1000D DIG Business Rules](https://www.gerkemulder.nl/DIG_Business_Rules_issue_1.0_170619.pdf) - An implementation of S1000D specification in the defense industry.
 - [The Shipdex Protocol: Issue 2.3](http://www.shipdex.org/shipdex-viewer-free.asp) - An implementation of S1000D specification in the shipping industry.
+
+## Content accessibility
+
+### Laws and regulations
+
+- [Americans with Disabilities Act of 1990, As Amended](https://www.ada.gov/law-and-regs/ada/)
+- [Rehabilitation Act of 1973: Section 508 (Federal Electronic and Information Technology)](https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology)
+  - [美国508无障碍法案](http://wza.people.com.cn/wza2013/a/biaozhunfagui/2019/0319/113.html)
+- [European Accessibility Act: Directive (EU) 2019/882 on the accessibility requirements for products and services](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882)
+- [European Accessibility Act Summary: Accessibility of products and services](https://eur-lex.europa.eu/EN/legal-content/summary/accessibility-of-products-and-services.html)
+- [中华人民共和国无障碍环境建设法](https://www.gov.cn/yaowen/liebiao/202306/content_6888910.htm)
+
+### Standards
+
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Authoring Tool Accessibility Guidelines (ATAG)](https://www.w3.org/WAI/standards-guidelines/atag/)
+- [User Agent Accessibility Guidelines (UAAG)](https://www.w3.org/WAI/standards-guidelines/uaag/)
+- [GB/T 37668-2019：信息技术 互联网内容无障碍可访问性技术要求与测试方法](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=35ECC696805C1A67C93B74FB6D0D8EFB)
+- [Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/)
+
+### Others
+
+- [European Accessibility Act: A Guide to Compliance](https://www.squirepattonboggs.com/-/media/files/insights/publications/2023/09/european-accessibility-act-a-guide-to-compliance/european-accessibility-act-a-guide-to-compliance.pdf)
+- [信息无障碍研究会：无障碍生活指南](https://www.siaa.org.cn/static/image/img_media/1670565546644.pdf)
 
 ## Text processing
 
