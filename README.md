@@ -28,9 +28,9 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
   - [DITA](#dita)
   - [S1000D](#s1000d)
 - [Content accessibility](#content-accessibility)
+  - [Introductory materials](#introductory-materials)
   - [Laws and regulations](#laws-and-regulations)
-  - [Standards](#standards)
-  - [Others](#others)
+  - [Standards and specifications](#standards-and-specifications)
 - [Text processing](#text-processing)
   - [Regular expressions](#regular-expressions)
   - [XSL](#xsl)
@@ -246,27 +246,31 @@ Here are the **📁 official specifications and implementations in specific indu
 
 ## Content accessibility
 
+Developing content with accessibility in mind ensures that your websites, manuals or documents are meaningful and usable for as many people as possible.
+
+### Introductory materials
+
+- [Microsoft accessibility resources](https://www.microsoft.com/en-us/accessibility/resources) - Accessibility training courses, accessible design approaches and tools and other resources developed by Microsoft.
+- [IBM accessibility resources](https://www.ibm.com/able/) - IBM accessibility design tools, IBM Accessibility Requirements, Accessibility Conformance Report of IBM products, and other resources developed by IBM.
+- [European Accessibility Act: A Guide to Compliance](https://www.squirepattonboggs.com/-/media/files/insights/publications/2023/09/european-accessibility-act-a-guide-to-compliance/european-accessibility-act-a-guide-to-compliance.pdf) - Explains the requirements in the European Accessibility Act that companies must comply with and the compliance deadlines.
+- [信息无障碍研究会：无障碍生活指南](https://www.siaa.org.cn/static/image/img_media/1670565546644.pdf) - Survey report on barriers to accessibility in our daily life, latest accessibility technologies and recommendations on further improvements.
+
 ### Laws and regulations
 
-- [Americans with Disabilities Act of 1990, As Amended](https://www.ada.gov/law-and-regs/ada/)
-- [Rehabilitation Act of 1973: Section 508 (Federal Electronic and Information Technology)](https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology)
-  - [美国508无障碍法案](http://wza.people.com.cn/wza2013/a/biaozhunfagui/2019/0319/113.html)
-- [European Accessibility Act: Directive (EU) 2019/882 on the accessibility requirements for products and services](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882)
-- [European Accessibility Act Summary: Accessibility of products and services](https://eur-lex.europa.eu/EN/legal-content/summary/accessibility-of-products-and-services.html)
-- [中华人民共和国无障碍环境建设法](https://www.gov.cn/yaowen/liebiao/202306/content_6888910.htm)
+- [Americans with Disabilities Act of 1990, As Amended](https://www.ada.gov/law-and-regs/ada/) - Federal civil rights law of United States that protects people with disabilities from discrimination in everyday activities.
+- [Rehabilitation Act of 1973: Section 508](https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology) - Accessibility requirements for the federal government and all federal agencies of United States to use electronic and information technology.
+  - [美国508无障碍法案](http://wza.people.com.cn/wza2013/a/biaozhunfagui/2019/0319/113.html) - Chinese version of Rehabilitation Act of 1973: Section 508.
+- [Directive (EU) 2019/882 on the accessibility requirements for products and services](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882) - European Accessibility Act.
+- [Accessibility of products and services](https://eur-lex.europa.eu/EN/legal-content/summary/accessibility-of-products-and-services.html) - Summary of European Accessibility Act.
+- [中华人民共和国无障碍环境建设法](https://www.gov.cn/yaowen/liebiao/202306/content_6888910.htm) - Accessibility law in China which regulates the construction of accessible facilities, accessible information exchanges, social services, and so on.
 
-### Standards
+### Standards and specifications
 
-- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-- [Authoring Tool Accessibility Guidelines (ATAG)](https://www.w3.org/WAI/standards-guidelines/atag/)
-- [User Agent Accessibility Guidelines (UAAG)](https://www.w3.org/WAI/standards-guidelines/uaag/)
-- [GB/T 37668-2019：信息技术 互联网内容无障碍可访问性技术要求与测试方法](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=35ECC696805C1A67C93B74FB6D0D8EFB)
-- [Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/)
-
-### Others
-
-- [European Accessibility Act: A Guide to Compliance](https://www.squirepattonboggs.com/-/media/files/insights/publications/2023/09/european-accessibility-act-a-guide-to-compliance/european-accessibility-act-a-guide-to-compliance.pdf)
-- [信息无障碍研究会：无障碍生活指南](https://www.siaa.org.cn/static/image/img_media/1670565546644.pdf)
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) - International standard to make web content more accessible to people with disabilities.
+- [Authoring Tool Accessibility Guidelines (ATAG)](https://www.w3.org/WAI/standards-guidelines/atag/) - International standard for developers to make authoring tools more accessible to people with disabilities and more convenient to create accessible web content.
+- [User Agent Accessibility Guidelines (UAAG)](https://www.w3.org/WAI/standards-guidelines/uaag/) - International standard to make browsers, browser extensions, media players and other applications more accessible to people with disabilities.
+- [Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) - International technical specification to improve the accessibility and interoperability of web content and applications.
+- [信息技术：互联网内容无障碍可访问性技术要求与测试方法 (GB/T 37668-2019)](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=35ECC696805C1A67C93B74FB6D0D8EFB) - China's recommended standard for the technical requirements and the conformance testing of web content accessibility.
 
 ## Text processing
 
