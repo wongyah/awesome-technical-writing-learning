@@ -330,10 +330,11 @@ If you like to explore more resources about PowerShell, see [Awesome PowerShell]
 
 ## Version control
 
-- [Pro Git](https://git-scm.com/book/en/v2)
-- [Learn Git](https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control)
-- [Git Cheat Sheets](https://training.github.com/)
-- [Git Reference](https://git-scm.com/docs)
+- [Learn Git](https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control) - Short tutorial to teach Git basics, by Microsoft.
+- [Pro Git](https://git-scm.com/book/en/v2) - Complete and practical textbook with graphic illustration to teach Git fast and well (available on the Git website).
+- [Git Cheat Sheets](https://training.github.com/) - Cheat sheets of common Git commands in 20+ languages, by GitHub.
+- [Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;) - Visualized cheat sheet of common Git commands.
+- [Git Reference](https://git-scm.com/docs) - Official reference manual of Git.
 
 ## Professional communications and knowledge sharing
 
