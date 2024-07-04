@@ -36,9 +36,10 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
   - [XSL](#xsl)
   - [PowerShell](#powershell)
 - [Version control](#version-control)
-- [Professional communications and knowledge sharing](#professional-communications-and-knowledge-sharing)
+- [Knowledge sharing](#knowledge-sharing)
   - [Blogs](#blogs)
   - [Podcasts](#podcasts)
+- [Professional communications](#professional-communications)
   - [Webinars](#webinars)
 
 ---
@@ -62,9 +63,9 @@ Now, you know a bit about technical writing 👏! Not enough for you? Let's go f
 
 The following **📚 textbooks and tutorials** authored by experienced professionals are great resources for you to systematically learn a new skill. Here you are, enjoy 😄!
 
-- [Software Technical Writing: A Guidebook](https://jamesg.blog/2024/01/03/software-technical-writing/) - A technical writer at a computer vision startup talks about his daily work in every detail.
+- [Software Technical Writing: A Guidebook](https://jamesg.blog/2024/01/03/software-technical-writing/) - A technical writer at a computer vision startup writes about her daily work in every detail.
 - [Documentation APIs: A Guide for Technical Writers and Engineers](https://idratherbewriting.com/learnapidoc/) - Tom Johnson, a senior technical writer at Google and the founder of the [I’d Rather Be Writing](https://idratherbewriting.com/) blog, teaches you how to write API documentation step by step.
-- [Documentation Guide](https://www.writethedocs.org/guide/) - Living guide around best practices for creating software documentation, developed and maintained by the [Write the Docs](https://www.writethedocs.org/) community.
+- [Software Documentation Guide](https://www.writethedocs.org/guide/) - Living guide around best practices for creating software documentation, developed and maintained by the [Write the Docs](https://www.writethedocs.org/) community.
 - [Developing Quality Technical Information: A Handbook for Writers and Editors](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975) - One of the must-read books for technical writers. It demonstrates technical writing guidelines with original and revision examples, published by IBM Press.
 - [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) - Open textbook in its 4th rendition, authored by five professionals at Kennesaw State University.
 
@@ -336,24 +337,29 @@ If you like to explore more resources about PowerShell, see [Awesome PowerShell]
 - [Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;) - Visualized cheat sheet of common Git commands.
 - [Git Reference](https://git-scm.com/docs) - Official reference manual of Git.
 
-## Professional communications and knowledge sharing
+## Knowledge sharing
+
+More and more professionals are sharing their invaluable expeirence and professional insights online, and so do technical writers. Let's learn from others!
 
 ### Blogs
 
-- [I'd Rather Be Writing](https://idratherbewriting.com/)
-- [DITA Writer](https://www.ditawriter.com/)
-- [JustWriteClick](https://justwriteclick.com/)
-- [Everything Technical Writing](https://www.everythingtechnicalwriting.com/)
-- [James' Coffee Blog](https://jamesg.blog/technical-writing/)
+- [I'd Rather Be Writing](https://idratherbewriting.com/) - Tom Johnson, a technical writer at [Google](https://www.googlgoogle.com/), writes about API documentation, AI, and other topics about technical writing.
+- [DITA Writer](https://www.ditawriter.com/) - Keith Schengili-Roberts, a senior manager for technical documentation at [AMD](https://www.amd.com/en.html), writes about DITA and technical writing community.
+- [Just Write Click](https://justwriteclick.com/) - Anne Gentle, the director of developer experience at [Cisco DevNet](https://developer.cisco.com/) and the book author of [Doc Like Code](https://www.amazon.com/Docs-Like-Code-Collaborate-Documentation/dp/1387531492?crid=8DXRF2ZTWSWM&keywords=9781387531493&qid=1670471714&sprefix=9781387531493,aps,118&sr=8-1&linkCode=sl1&tag=justwriteclic-20&linkId=d3f78a139ecd99587f61f6f21eef8356&language=en_US&ref_=as_li_ss_tl), writes about her books, interviews, experience and insights about technical writing.
+- [Everything Technical Writing](https://www.everythingtechnicalwriting.com/) - Linda Ikechukwu, a technical writer transitioned from a frontend developer, writes about what she learned and experienced as a technical writer in the software industry.
+- [James' Coffee Blog](https://jamesg.blog/technical-writing/) - James Gallagher, a technical writer at [Roboflow](https://roboflow.com/) (a computer vision startup), writes about her daily work as a technical writer.
 
 ### Podcasts
 
-- [Write the Docs Podcast](https://podcast.writethedocs.org/)
-- [I'd Rather Be Writing Podcasts](https://idratherbewriting.com/podcasts/)
+- [Write the Docs Podcast](https://podcast.writethedocs.org/) - Discussions related to software documentation between members of the Write the Docs community.
+- [I'd Rather Be Writing Podcasts](https://idratherbewriting.com/podcasts/) -  Tom Johnson, a technical writer at [Google](https://www.googlgoogle.com/), records his interviews, presentation recordings, individual monologues, etc.
+
+## Professional communications
+
+Join a live talk or an in-person presentation to connect yourself with your counterparts from all over the world.
 
 ### Webinars
 
-- [The Content Wrangler](https://www.brighttalk.com/channel/9273/)
-- [Quark](https://www.brighttalk.com/channel/20195/)
+- [The Content Wrangler](https://www.brighttalk.com/channel/9273/) - [BrightTALK](https://www.brighttalk.com/) channel for content management, with more than 70k subscribers.
 
 
