@@ -27,10 +27,20 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
   - [reStructuredText](#restructuredtext)
   - [DITA](#dita)
   - [S1000D](#s1000d)
+- [Content accessibility](#content-accessibility)
+  - [Introductory materials](#introductory-materials)
+  - [Laws and regulations](#laws-and-regulations)
+  - [Standards and specifications](#standards-and-specifications)
 - [Text processing](#text-processing)
   - [Regular expressions](#regular-expressions)
   - [XSL](#xsl)
   - [PowerShell](#powershell)
+- [Version control](#version-control)
+- [Knowledge sharing](#knowledge-sharing)
+  - [Blogs](#blogs)
+  - [Podcasts](#podcasts)
+- [Professional communications](#professional-communications)
+  - [Webinars](#webinars)
 
 ---
 
@@ -53,9 +63,9 @@ Now, you know a bit about technical writing 👏! Not enough for you? Let's go f
 
 The following **📚 textbooks and tutorials** authored by experienced professionals are great resources for you to systematically learn a new skill. Here you are, enjoy 😄!
 
-- [Software Technical Writing: A Guidebook](https://jamesg.blog/2024/01/03/software-technical-writing/) - A technical writer at a computer vision startup talks about his daily work in every detail.
+- [Software Technical Writing: A Guidebook](https://jamesg.blog/2024/01/03/software-technical-writing/) - A technical writer at a computer vision startup writes about her daily work in every detail.
 - [Documentation APIs: A Guide for Technical Writers and Engineers](https://idratherbewriting.com/learnapidoc/) - Tom Johnson, a senior technical writer at Google and the founder of the [I’d Rather Be Writing](https://idratherbewriting.com/) blog, teaches you how to write API documentation step by step.
-- [Documentation Guide](https://www.writethedocs.org/guide/) - Living guide around best practices for creating software documentation, developed and maintained by the [Write the Docs](https://www.writethedocs.org/) community.
+- [Software Documentation Guide](https://www.writethedocs.org/guide/) - Living guide around best practices for creating software documentation, developed and maintained by the [Write the Docs](https://www.writethedocs.org/) community.
 - [Developing Quality Technical Information: A Handbook for Writers and Editors](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975) - One of the must-read books for technical writers. It demonstrates technical writing guidelines with original and revision examples, published by IBM Press.
 - [Open Technical Communication](https://alg.manifoldapp.org/projects/open-technical-communication) - Open textbook in its 4th rendition, authored by five professionals at Kennesaw State University.
 
@@ -97,6 +107,7 @@ Now, you can use your writing skills to improve your technical documentation!
 
 - [Grammarly](https://www.grammarly.com/) - Online grammar checker that automatically evaluates writing quality.
 - [QuillBot](https://quillbot.com/) - Online grammar checker and rewriting tool.
+- [LanguageTool](https://languagetool.org/) - AI-based spelling, style and grammar checker.
 - [ChatGPT](https://chat.openai.com/) - AI chatbot developed by OpenAI.
 - [Tongyi Qianwen](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee125bSWt) - ChatGPT-like chatbot developed by Alibaba, one of China's largest technology companies.
 
@@ -234,6 +245,34 @@ Here are the **📁 official specifications and implementations in specific indu
 - [S1000D DIG Business Rules](https://www.gerkemulder.nl/DIG_Business_Rules_issue_1.0_170619.pdf) - An implementation of S1000D specification in the defense industry.
 - [The Shipdex Protocol: Issue 2.3](http://www.shipdex.org/shipdex-viewer-free.asp) - An implementation of S1000D specification in the shipping industry.
 
+## Content accessibility
+
+Developing content with accessibility in mind ensures that your websites, manuals or documents are meaningful and usable for as many people as possible.
+
+### Introductory materials
+
+- [Microsoft accessibility resources](https://www.microsoft.com/en-us/accessibility/resources) - Accessibility training courses, accessible design approaches and tools and other resources developed by Microsoft.
+- [IBM accessibility resources](https://www.ibm.com/able/) - IBM accessibility design tools, IBM Accessibility Requirements, Accessibility Conformance Report of IBM products, and other resources developed by IBM.
+- [European Accessibility Act: A Guide to Compliance](https://www.squirepattonboggs.com/-/media/files/insights/publications/2023/09/european-accessibility-act-a-guide-to-compliance/european-accessibility-act-a-guide-to-compliance.pdf) - Explains the requirements in the European Accessibility Act that companies must comply with and the compliance deadlines.
+- [信息无障碍研究会：无障碍生活指南](https://www.siaa.org.cn/static/image/img_media/1670565546644.pdf) - Survey report on barriers to accessibility in our daily life, latest accessibility technologies and recommendations on further improvements.
+
+### Laws and regulations
+
+- [Americans with Disabilities Act of 1990, As Amended](https://www.ada.gov/law-and-regs/ada/) - Federal civil rights law of United States that protects people with disabilities from discrimination in everyday activities.
+- [Rehabilitation Act of 1973: Section 508](https://www.access-board.gov/about/law/ra.html#section-508-federal-electronic-and-information-technology) - Accessibility requirements for the federal government and all federal agencies of United States to use electronic and information technology.
+  - [美国508无障碍法案](http://wza.people.com.cn/wza2013/a/biaozhunfagui/2019/0319/113.html) - Chinese version of Rehabilitation Act of 1973: Section 508.
+- [Directive (EU) 2019/882 on the accessibility requirements for products and services](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882) - European Accessibility Act.
+- [Accessibility of products and services](https://eur-lex.europa.eu/EN/legal-content/summary/accessibility-of-products-and-services.html) - Summary of European Accessibility Act.
+- [中华人民共和国无障碍环境建设法](https://www.gov.cn/yaowen/liebiao/202306/content_6888910.htm) - Accessibility law in China which regulates the construction of accessible facilities, accessible information exchanges, social services, and so on.
+
+### Standards and specifications
+
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) - International standard to make web content more accessible to people with disabilities.
+- [Authoring Tool Accessibility Guidelines (ATAG)](https://www.w3.org/WAI/standards-guidelines/atag/) - International standard for developers to make authoring tools more accessible to people with disabilities and more convenient to create accessible web content.
+- [User Agent Accessibility Guidelines (UAAG)](https://www.w3.org/WAI/standards-guidelines/uaag/) - International standard to make browsers, browser extensions, media players and other applications more accessible to people with disabilities.
+- [Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/WAI/standards-guidelines/aria/) - International technical specification to improve the accessibility and interoperability of web content and applications.
+- [信息技术：互联网内容无障碍可访问性技术要求与测试方法 (GB/T 37668-2019)](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=35ECC696805C1A67C93B74FB6D0D8EFB) - China's recommended standard for the technical requirements and the conformance testing of web content accessibility.
+
 ## Text processing
 
 Equipping yourself with some programming skills will enable you to complete some really cool jobs, such as automating workflow and batch modifying.
@@ -289,3 +328,38 @@ PowerShell is a task automation tool from Microsoft, which is built into all ver
 - [PowerShell Documentation](https://learn.microsoft.com/pdf?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fpowershell%2Fscripting%2Ftoc.json%3Fview%3Dpowershell-7.4) - The official documentation for PowerShell 7.4.
 
 If you like to explore more resources about PowerShell, see [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell).
+
+## Version control
+
+- [Learn Git](https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control) - Short tutorial to teach Git basics, by Microsoft.
+- [Pro Git](https://git-scm.com/book/en/v2) - Complete and practical textbook with graphic illustration to teach Git fast and well (available on the Git website).
+- [Git Cheat Sheets](https://training.github.com/) - Cheat sheets of common Git commands in 20+ languages, by GitHub.
+- [Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;) - Visualized cheat sheet of common Git commands.
+- [Git Reference](https://git-scm.com/docs) - Official reference manual of Git.
+
+## Knowledge sharing
+
+More and more professionals are sharing their invaluable expeirence and professional insights online, and so do technical writers. Let's learn from others!
+
+### Blogs
+
+- [I'd Rather Be Writing](https://idratherbewriting.com/) - Tom Johnson, a technical writer at [Google](https://www.googlgoogle.com/), writes about API documentation, AI, and other topics about technical writing.
+- [DITA Writer](https://www.ditawriter.com/) - Keith Schengili-Roberts, a senior manager for technical documentation at [AMD](https://www.amd.com/en.html), writes about DITA and technical writing community.
+- [Just Write Click](https://justwriteclick.com/) - Anne Gentle, the director of developer experience at [Cisco DevNet](https://developer.cisco.com/) and the book author of [Doc Like Code](https://www.amazon.com/Docs-Like-Code-Collaborate-Documentation/dp/1387531492?crid=8DXRF2ZTWSWM&keywords=9781387531493&qid=1670471714&sprefix=9781387531493,aps,118&sr=8-1&linkCode=sl1&tag=justwriteclic-20&linkId=d3f78a139ecd99587f61f6f21eef8356&language=en_US&ref_=as_li_ss_tl), writes about her books, interviews, experience and insights about technical writing.
+- [Everything Technical Writing](https://www.everythingtechnicalwriting.com/) - Linda Ikechukwu, a technical writer transitioned from a frontend developer, writes about what she learned and experienced as a technical writer in the software industry.
+- [James' Coffee Blog](https://jamesg.blog/technical-writing/) - James Gallagher, a technical writer at [Roboflow](https://roboflow.com/) (a computer vision startup), writes about her daily work as a technical writer.
+
+### Podcasts
+
+- [Write the Docs Podcast](https://podcast.writethedocs.org/) - Discussions related to software documentation between members of the Write the Docs community.
+- [I'd Rather Be Writing Podcasts](https://idratherbewriting.com/podcasts/) -  Tom Johnson, a technical writer at [Google](https://www.googlgoogle.com/), records his interviews, presentation recordings, individual monologues, etc.
+
+## Professional communications
+
+Join a live talk or an in-person presentation to connect yourself with your counterparts from all over the world.
+
+### Webinars
+
+- [The Content Wrangler](https://www.brighttalk.com/channel/9273/) - [BrightTALK](https://www.brighttalk.com/) channel for content management, with more than 70k subscribers.
+
+
