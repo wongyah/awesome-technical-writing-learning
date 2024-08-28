@@ -198,12 +198,13 @@ You may forget an infrequently used syntax or not sure about a specific syntax d
 
 ### DITA
 
-DITA is an open source standard for creating topic-based strcutured technical documentations, which was originally created by IBM and was donated to OASIS in 2005. 
+DITA is an open source standard for creating topic-based strcutured technical documentations, which was originally created by IBM and was donated to OASIS in 2004. 
 
 DITA was initially spread to high-tech companies like Adobe, Siemens, and Kone, and then become more and more popular in all industries.
 
 If you are completely new to DITA, the following **🔔 courses and tutorials** are the best starting points for you:
 
+- [DITA 101 Guide](https://public.dhe.ibm.com/software/info/television/filenet/tmp/IBM14042USEN.PDF) - Introductory document to DITA, produced by IBM.
 - [LearningDITA](https://learningdita.com/) - Nine game-based courses for DITA beginners, developed and maintained by Scriptorium.
 - [DITA for the Impatient](https://www.xmlmind.com/tutorials/DITA/) - Short DITA tutorial to teach the basics of DITA, developed by Hussein Shafie at XMLmind Software.
 
@@ -213,6 +214,7 @@ That said, DITA is a bit complicated. Adopt a [DITA-aware XML editor](https://ww
 
 - [DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA](https://www.amazon.com/DITA-Best-Practices-Roadmap-Architecting/dp/0132480522) - A practical book about how to write effective technical information in DITA, published in 2011 by IBM Press (not a free resource).
 - [The DITA Style Guide: Best Practices for Authors](https://www.oxygenxml.com/dita/styleguide/) - Written in DITA 1.1 by Tony Self.
+- [Jorsek's Technical Content Development Guide](https://github.com/Jorsek/jorsek-cdg) - Developed by the maker of the CCMS Heretto.
 
 You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of **📔 open source sample manuals written in DITA** to see how it was written and think how to improve it.
 
@@ -220,6 +222,10 @@ You can use DITA to improve your own technical documentation. If you don't have 
 - [Pilot Training Mitchell Bomber](https://github.com/DITAWriter/pilot_training_mitchell_bomber#readme) - A pilot training manual (aviation document) rewritten in DITA.
 - [LwDITA Code Samples](https://github.com/DITAWriter/LwDITA_Code_Samples#readme) - Various manuals of a 1970s computer rewritten in Lightweight DITA.
 - [DITA Glossary Example](https://github.com/DITAWriter/dita_glossary_example#readme) - A book named *On Yacht Sailing* rewritten in DITA to demontrate how to implement glossories.
+- [DITA Style Guide](https://github.com/hyperwrite/DITAStyleGuide) - Source code for The DITA Style Guide: Best Practices for Authors, written by Tony Self.
+- [BTS Manual](https://github.com/thesaurus-linguae-aegyptiae/BTS-Manual) - User manual of Berlin Text System written in DITA.
+- [DITA Open Toolkit Documentation](https://github.com/dita-ot/docs) - Source code for the DITA-OT documentation.
+- [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) - Source code for the Oxygen XML documentation.
 
 DITA has much more elements than Markdown and reStructuredText. If you encounter soemthing unknown, resort to **📘 official specifications**.
 
@@ -356,7 +362,7 @@ More and more professionals are sharing their invaluable expeirence and professi
 
 ## Professional communications
 
-Join a live talk or an in-person presentation to connect yourself with your counterparts from all over the world.
+Join a live talk or an in-person presentation to connect yourself with your peers from all over the world.
 
 ### Webinars
 
