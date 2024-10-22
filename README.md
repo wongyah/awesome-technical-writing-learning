@@ -215,6 +215,7 @@ That said, DITA is a bit complicated. Adopt a [DITA-aware XML editor](https://ww
 - [DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA](https://www.amazon.com/DITA-Best-Practices-Roadmap-Architecting/dp/0132480522) - A practical book about how to write effective technical information in DITA, published in 2011 by IBM Press (not a free resource).
 - [The DITA Style Guide: Best Practices for Authors](https://www.oxygenxml.com/dita/styleguide/) - Written in DITA 1.1 by Tony Self.
 - [Jorsek's Technical Content Development Guide](https://github.com/Jorsek/jorsek-cdg) - Developed by the maker of the CCMS Heretto.
+- [Oxygen XML Author使用指南](https://github.com/EstelleRao/zh-oxygenxml-userguide) - A practical DITA migration guide in Chinese for technical documentation teams that are new to DITA and Oxygen XML Author.
 
 You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of **📔 open source sample manuals written in DITA** to see how it was written and think how to improve it.
 
