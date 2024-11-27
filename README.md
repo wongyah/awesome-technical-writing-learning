@@ -202,11 +202,17 @@ DITA is an open source standard for creating topic-based structured technical do
 
 DITA was initially spread to high-tech companies like Adobe, Boeing, Siemens, and Nokia, and then become more and more popular in all industries.
 
+<!-- omit from toc -->
+#### Getting started
+
 If you are completely new to DITA, the following **🔔 courses and tutorials** are the best starting points for you:
 
 - [DITA 101 Guide](https://public.dhe.ibm.com/software/info/television/filenet/tmp/IBM14042USEN.PDF) - Introductory document to DITA, produced by IBM.
 - [LearningDITA](https://learningdita.com/) - Nine game-based courses for DITA beginners, developed and maintained by Scriptorium.
 - [DITA for the Impatient](https://www.xmlmind.com/tutorials/DITA/) - Short DITA tutorial to teach the basics of DITA, developed by Hussein Shafie at XMLmind Software.
+
+<!-- omit from toc -->
+#### Best practices
 
 Now, you know a bit about DITA 👏. It's time to practice 💃🕺!
 
@@ -215,7 +221,10 @@ That said, DITA is a bit complicated. Adopt a [DITA-aware XML editor](https://ww
 - [DITA Best Practices: A Roadmap for Writing, Editing, and Architecting in DITA](https://www.amazon.com/DITA-Best-Practices-Roadmap-Architecting/dp/0132480522) - A practical book about how to write effective technical information in DITA, published in 2011 by IBM Press (paid resource).
 - [The DITA Style Guide: Best Practices for Authors](https://www.oxygenxml.com/dita/styleguide/) - Written in DITA 1.1 by Tony Self.
 - [Jorsek's Technical Content Development Guide](https://github.com/Jorsek/jorsek-cdg) - Developed by the maker of Heretto CCMS.
-- [Oxygen XML Author使用指南](https://github.com/EstelleRao/zh-oxygenxml-userguide) - A practical DITA migration guide in Chinese for technical documentation teams that are new to DITA and Oxygen XML Author.
+- [DITA 结构化写作指南：基于 Oxygen XML Author 和 GitLab 的技术文档开发实践](https://github.com/EstelleRao/zh-oxygenxml-userguide) - Practical DITA best practices in Chinese for technical documentation teams that are new to DITA and Oxygen XML Author.
+
+<!-- omit from toc -->
+#### Sample projects
 
 You can use DITA to improve your own technical documentation. If you don't have such resources, pick one of **📔 open source sample manuals written in DITA** to see how it was written and think how to improve it.
 
@@ -227,6 +236,9 @@ You can use DITA to improve your own technical documentation. If you don't have 
 - [BTS Manual](https://github.com/thesaurus-linguae-aegyptiae/BTS-Manual) - User manual of Berlin Text System written in DITA.
 - [DITA Open Toolkit Documentation](https://github.com/dita-ot/docs) - Source code for the DITA-OT documentation.
 - [Oxygen XML User Guide](https://github.com/oxygenxml/userguide) - Source code for the Oxygen XML documentation.
+
+<!-- omit from toc -->
+#### Official resources
 
 DITA has much more elements than Markdown and reStructuredText. If you encounter something unknown, resort to **📘 official specifications**.
 
