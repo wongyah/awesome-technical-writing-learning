@@ -132,6 +132,7 @@ Technical illustrators used to create technical illustrations using Adobe Illust
 - [SOLIDWORKS Composer](https://www.solidworks.com/product/solidworks-composer) and [SOLIDWORKS Composer Help](https://help.solidworks.com/2021/English/DSSWXComposerDoc/FrontmatterSWXComposer/DSSWXComposerDocHome.htm) - Commercial software for technical illustrations, developed by SolidWorks.
 - [XVL Studio 3D CAD Corel Edition](https://www.coreldraw.com/en/product/technical-suite/xvl-studio/) - Commercial software for technical illustrations, developed by CorelDRAW.
 - [XVL Technical Illustration Suite](https://www.lattice3d.com/products/xvl-technical-illustration-suite) - A suite of commercial software for technical illustrations, developed by Lattice Technology.
+- [RapidIllustrator](https://www.cortona3d.com/en/rapidillustrator) - Commercial software for 3D illustrations, developed by Cortona3D.
 
 ## Authoring formats
 
