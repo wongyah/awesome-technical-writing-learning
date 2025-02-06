@@ -310,6 +310,7 @@ Use an **💻 online tool** to experiment the regex in the tutorial. It will mak
 
 - [Regex 101](https://regex101.com/) - Online tool to build, test and debug regexes.
 - [RegExr](https://regexr.com/) - Online tool to learn, build and test regexes.
+- [Pyrexp](https://pythonium.net/regex) - Online tool to visualize, test and debug regexes.
 
 > [!TIP]
 > You can also use a text editor with support for regex, such as VS Code.
@@ -333,6 +334,7 @@ XSL (Extensible Stylesheet Language) is a styling language for XML. It consists 
 
 - [XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp) - For XPath beginners. It was developed by W3Schools.
 - [XPath 3.1](https://www.w3.org/TR/xpath-31/) - The latest official specification for XPath, released on Mar 21, 2017.
+- [XPath tester](https://xmlable.com/xpath/) - Online tool to test and debug XPath.
 
 **XSL-FO** (XSL Formatting Objects) is a language for formatting XML documents. XSL-FO is also called XSL.
 
