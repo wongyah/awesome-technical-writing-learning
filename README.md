@@ -41,6 +41,7 @@ Want to suggest a resource? Check out the [Contribution Guidelines](https://gith
   - [Podcasts](#podcasts)
 - [Professional communications](#professional-communications)
   - [Webinars](#webinars)
+  - [Conferences](#conferences)
 
 ---
 
@@ -382,4 +383,15 @@ Join a live talk or an in-person presentation to connect yourself with your peer
 
 - [The Content Wrangler](https://www.brighttalk.com/channel/9273/) - [BrightTALK](https://www.brighttalk.com/) channel for content management, with more than 70k subscribers.
 
+### Conferences
 
+- [DITA Europe (February 17-18, 2025)](https://ditaeurope.infomanagementcenter.com/) - Two days of on-site event with focus on trends, content management solutions and best practices of technical content and DITA (paid ticket necessary).
+- [ConVEx San Jose (April 7-9, 2025)](https://convex.infomanagementcenter.com/) - Three days of hybrid event in San Jose, California (previously named DITA North America), with focus on content strategy related to DITA (paid ticket necessary).
+- [Write the Docs Portland (May 4-6, 2025)](https://www.writethedocs.org/conf/portland/2025/) - Three days of on-site event with focus on software documentation and community.
+  - [Archives of Write the Docs Conferences](https://www.writethedocs.org/conf/)
+- [tcworld China (May 22-23, 2025)](https://www.tcworld-china.cn/en/) - Two days of on-site event with focus on the development and challenges of technical communication in China (paid ticket necessary).
+- [Evolution of TC (May 27-28, 2025)](https://evolution-of-tc.com/) - Two days of on-site event with focus on innovations in software documentation.
+- [Adobe DITAWORLD (June 3-5, 2025)](https://2025-adobe-dita-world.meetus.adobeevents.com/) - Three days of online event hosted by Adobe to showcase the trends, new features, customer stories, and best practices of Adobe's software suite related to technical documentation.
+- [tcworld Conference (November 11-13, 2025)](https://tcworldconference.tekom.de/) - Three days of on-site event with diverse topics and professionals in technical communication from all over the world (paid ticket necessary).
+- [XML Prague (June 6-8, 2024)](https://www.xmlprague.cz/) - Three days of on-site event with focus on markup and semantics on web books and ebooks and printed books, recent advances in XML technologies, and XML technologies for big data.
+- [ConVEx IDEAS (September 9-11, 2024)](https://ideas.infomanagementcenter.com/) - Three days of online event with focus on industry trends rather than just one topic (paid ticket necessary).
