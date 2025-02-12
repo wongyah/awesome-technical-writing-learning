@@ -1,0 +1,44 @@
+name: Sync files to gh-pages
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '.github/**'
+
+jobs:
+  sync-files:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the main branch using actions/checkout@v4
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      # Checkout the gh-pages branch into a separate directory
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      # Copy all files except .github folder to gh-pages
+      - name: Copy files to gh-pages
+        run: |
+          rsync -av --exclude='.github' ./ gh-pages/
+
+      # Commit and push changes in gh-pages
+      - name: Commit and Push changes
+        working-directory: ./gh-pages
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "action@github.com"
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Sync files from main [skip ci]"
+            git push origin gh-pages
+          else
+            echo "No changes to commit."
+          fi
