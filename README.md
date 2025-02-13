@@ -110,7 +110,7 @@ Now, you can use your writing skills to improve your technical documentation!
 - [QuillBot](https://quillbot.com/) - Online grammar checker and rewriting tool.
 - [LanguageTool](https://languagetool.org/) - AI-based spelling, style and grammar checker.
 - [ChatGPT](https://chat.openai.com/) - AI chatbot developed by OpenAI.
-- [Tongyi Qianwen](https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee125bSWt) - ChatGPT-like chatbot developed by Alibaba, one of China's largest technology companies.
+- [通义千问](https://tongyi.aliyun.com/qianwen/) - ChatGPT-like chatbot developed by Alibaba, one of China's largest technology companies.
 
 ### Readability checkers
 
