@@ -1,6 +1,11 @@
 name: Sygn files to gh-pages
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '.github/**'
   workflow_dispatch:
   
 jobs:
@@ -11,7 +16,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Copy to gh-pages
         uses: planetoftheweb/copy-to-branches@v1.3
