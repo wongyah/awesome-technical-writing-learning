@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  copy-to-branches:
+  sygn-files:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
@@ -18,3 +18,4 @@ jobs:
           key: main
           files: README.md
           branches: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
