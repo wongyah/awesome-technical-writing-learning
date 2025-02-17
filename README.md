@@ -76,15 +76,18 @@ Learning by doing, rather than learning by reading.
 
 But wait a minute, you still need to adopt an **📙 editorial style guide for technical writing** at first. If you forget what editorial style guides are or why you need one, go back to [Google Technical Writing Courses for Engineers](https://developers.google.cn/tech-writing/resources) for a refresher.
 
-- [ASD-STE100 Simplified Technical English](https://www.asd-ste100.org/request.html) - An international specification widely used in the aerospace and defense industry and other manufacturing industries, containing a set of writing rules and a controlled dictionary.
+- [ASD-STE100 Simplified Technical English](https://asd-ste100.org/STE_downloads.html) - International standard widely used in the aerospace and defense industry and other manufacturing industries, containing a set of writing rules and a controlled dictionary.
+- [NASA Technical Documentation Style Guide](https://standards.nasa.gov/sites/default/files/standards/KSC/F/0/ksc-df-107_rev_f_07082017.pdf) - Technical writing and formatting conventions for formal documents (books) and engineering documents prepared for or by Kennedy Space Center.
 - [The IBM Style Guide](https://www.tedwangtw.cn/Document/books/IBM%20Style%20Guide.pdf) - First published by IBM Press in 2011. It emphasizes a helpful, direct, and authoritative tone and topic-based writing (DITA).
 - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.1/) - For all kinds of technical documentation, including training and examination content. It emphasizes a formal writing style, with the IBM Style Guide as the preferred reference.
 - [Red Hat Supplementary Style Guide for Product Documentation](https://redhat-documentation.github.io/supplementary-style-guide/) - Supplementary to the IBM Style Guide. It provides format examples in AsciiDoc.
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/) - For computer technology and software documentation. It emphasizes a warm and relaxed conversational voice.
+- [Microsoft Localization Style Guide](https://learn.microsoft.com/en-us/globalization/reference/microsoft-style-guides) - Translation and style conventions  for 78 languages in computer technology and software documentation.
 - [Google Developer Documentation Style Guide](https://developers.google.cn/style) -  For software documentation. It emphasizes a casual and natural conversational tone with specific format recommendations for HTML and Markdown.
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html) - For open source software documentation written in Markdown. It emphasizes topic-based writing and format guidelines for Markdown.
 - [SUSE Documentation Style Guide](https://documentation.suse.com/en-us/style/current/single-html/docu_styleguide/#) - For software documentation. It emphasizes a professional tone and comprehensive markup reference for DocBook.
 - [Apple Style Guide](https://support.apple.com/zh-cn/guide/applestyleguide/welcome/web) - For Apple materials, nothing special.
+- [A Guide to Technical Writing](https://www.noor-book.com/en/ebook-A-guide-to-technical-writing-pdf) - The first style guide for technical writing in the world, by Thomas Arthur Rickard in 1908.
 
 ### General purpose editorial style guides
 
@@ -94,6 +97,8 @@ In the real world, anything is possible. Take a suitable **📙 general purpose 
 - [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/University%20of%20Oxford%20Style%20Guide%20%28updated%20Hilary%20term%202016%29.pdf) - Thirty-page style guide for writing and formatting documents consistently.
 - [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html) - Over 1000 pages. It has been published continuously since 1906 and now is in its 17th edition (subscription required).
 - [AMA Manual of Style](https://academic.oup.com/amamanualofstyle) - For medical and scientific publishing. It has been published continuously since 1962 and now is in its 11th edition (subscription required).
+- [The Elements of Style](https://www.gutenberg.org/ebooks/37134) - Classic book on principles of plain English style, by William Strunk, JR in 1918.
+    - [The Elements of Style: Fourth Edition](https://www.jlakes.org/ch/web/The-elements-of-style.pdf) 
 
 ### Dictionaries
 
