@@ -111,11 +111,12 @@ Now, you can use your writing skills to improve your technical documentation!
 
 ### Writing assistant software
 
+- [DeepSeek](https://www.deepseek.com/) - Free and open-source AI chatbot with same performance to OpenAI's o1 model, developed by Chinese AI company DeepSeek.
+- [ChatGPT](https://chat.openai.com/) - AI chatbot developed by OpenAI.
+- [通义千问](https://tongyi.aliyun.com/qianwen/) - AI chatbot developed by Alibaba, one of China's largest technology companies.
 - [Grammarly](https://www.grammarly.com/) - Online grammar checker that automatically evaluates writing quality.
 - [QuillBot](https://quillbot.com/) - Online grammar checker and rewriting tool.
 - [LanguageTool](https://languagetool.org/) - AI-based spelling, style and grammar checker.
-- [ChatGPT](https://chat.openai.com/) - AI chatbot developed by OpenAI.
-- [通义千问](https://tongyi.aliyun.com/qianwen/) - ChatGPT-like chatbot developed by Alibaba, one of China's largest technology companies.
 
 ### Readability checkers
 
