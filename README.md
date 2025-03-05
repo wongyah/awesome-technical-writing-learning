@@ -216,7 +216,7 @@ DITA was initially spread to high-tech companies like Adobe, Boeing, Siemens, an
 If you are completely new to DITA, the following **🔔 courses and tutorials** are the best starting points for you:
 
 - [DITA 101 Guide](https://public.dhe.ibm.com/software/info/television/filenet/tmp/IBM14042USEN.PDF) - Introductory document to DITA, produced by IBM.
-- [LearningDITA](https://learningdita.com/) - Nine game-based courses for DITA beginners, developed and maintained by Scriptorium.
+- [LearningDITA](https://store.scriptorium.com/) - Nine game-based courses for DITA beginners, developed and maintained by Scriptorium.
 - [DITA for the Impatient](https://www.xmlmind.com/tutorials/DITA/) - Short DITA tutorial to teach the basics of DITA, developed by Hussein Shafie at XMLmind Software.
 
 <!-- omit from toc -->
