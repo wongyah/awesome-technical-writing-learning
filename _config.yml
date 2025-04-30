@@ -122,10 +122,10 @@ defaults:
       classes: wide
       author_profile: true
       sidebar:
-        - title: "Wechat Subscription Account"
+        - title: "WeChat Subscription Account"
           image: /assets/images/socia-media/qrcode_wechat_258.jpg
-          image_alt: "Wechat subscription account ID: docSimpo"
-          text: "Scan the QR code to follow my Wechat subscription account (ID: docSimpo)."
+          image_alt: "Subscription account ID: tc_blabber"
+          text: "Scan the QR code to follow my WeChat subscription account (ID: tc_blabber)."
 
 
 # Plugins
