@@ -6,18 +6,18 @@ minimal_mistakes_skin    : "contrast"
 
 # Site settings
 locale                   : "en-US"
-title                    : "docSimpo | Awesome Technical Writing Learning"
+title                    : "Awesome Technical Writing Learning | TC Blabber"
 title_separator          : "|"
 # subtitle                 : site tagline that appears below site title in masthead
 name                     : "Yedda Wang"
 description              : "A curated list of awesome and free resources about technical writing."
-home_page                 : "https://www.docsimpo.work"
-url                      : "https://resources.docsimpo.work"
+home_page                 : "https://www.tcblabber.cn"
+# url                      : "https://resources.docsimpo.work"
 # baseurl                  : "/awesome-technical-writing-learning"
 repository               : "wongyah/awesome-technical-writing-learning"
 # teaser                   : path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/logo/docsimpo-logo@2x.png"
-masthead_title           :  "docSimpo" # overrides the website title displayed in the masthead, use " " for no title
+logo: "/assets/images/logo/tcblabber_logo.png"
+masthead_title           :  "TC Blabber" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 # words_per_minute         : 200
 atom_feed:
