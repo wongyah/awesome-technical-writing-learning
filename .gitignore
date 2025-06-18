@@ -27,3 +27,6 @@ codekit-config.json
 .sass-cache/
 _site/
 _asset_bundler_cache
+
+# git
+.gitignore
