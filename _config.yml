@@ -1,8 +1,7 @@
 # Jekyll theme setting
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 # Themes avaiable: "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
-minimal_mistakes_skin    : "contrast" 
+minimal_mistakes_skin    : "contrast"
 
 # Site settings
 locale                   : "en-US"
