@@ -11,6 +11,7 @@
 .bundle/
 vendor/
 **/vendor/bundle
+Gemfile.lock
 
 # Node.js and NPM
 node_modules
