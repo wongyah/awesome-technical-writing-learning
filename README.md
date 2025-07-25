@@ -152,6 +152,7 @@ Markdown is a lightweight markup language created by John Gruber in 2004. It has
 If you are completely new to Markdown, the following **📔 guide** is the best starting point for you:
 
 - [Markdown Guide](https://www.markdownguide.org/) - Concise, bare-bones guide for Markdown beginners.
+- [Markdown语法中心](https://markdown-syntax-hub.tcblabber.cn/) - One-stop resource for Markdown syntax learning and quick reference.
 - [John Gruber's Markdown Documentation](https://daringfireball.net/projects/markdown/)
 
 Now, you know a bit about Markdown 👏.  It is easy-to-read, easy-to-write, and easy-to-learn, isn't it 😎?
@@ -377,6 +378,7 @@ More and more professionals are sharing their invaluable experience and professi
 - [Just Write Click](https://justwriteclick.com/) - Anne Gentle, the director of developer experience at [Cisco DevNet](https://developer.cisco.com/) and the book author of [Doc Like Code](https://www.amazon.com/Docs-Like-Code-Collaborate-Documentation/dp/1387531492?crid=8DXRF2ZTWSWM&keywords=9781387531493&qid=1670471714&sprefix=9781387531493,aps,118&sr=8-1&linkCode=sl1&tag=justwriteclic-20&linkId=d3f78a139ecd99587f61f6f21eef8356&language=en_US&ref_=as_li_ss_tl), writes about her books, interviews, experience and insights about technical writing.
 - [Everything Technical Writing](https://www.everythingtechnicalwriting.com/) - Linda Ikechukwu, a technical writer transitioned from a frontend developer, writes about what she learned and experienced as a technical writer in the software industry.
 - [James' Coffee Blog](https://jamesg.blog/technical-writing/) - James Gallagher, a technical writer at [Roboflow](https://roboflow.com/) (a computer vision startup), writes about her daily work as a technical writer.
+- [技术传播百态说](https://www.tcblabber.cn/blog/) - Yedda Wang, a technical writer with solid manufacturing industry experience, shares insights on technical writing, software and tools, technical illustrations, and more.
 
 ### Podcasts
 
